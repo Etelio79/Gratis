@@ -174,6 +174,15 @@ http://168.227.22.18:1935/live/mobile-141/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
 #EXTINF:-1 tvg-id="history2.mx" tvg-name="C | History Channel 2" tvg-logo="http://descargas.podzone.net/logos/-H2-(history2).png" group-title="⭐️ Cultura",CUL| History Channel 2
 http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh8jqLtJqVtwJLxjjqE7ncr9S4sll9J5uS4w&usqp=CAU" group-title="⭐️ Cultura",CUL| National Geographic
+http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStlknFbYo_RzSpwuUeWgY1bM7NeRZUJMtgSA&usqp=CAU" group-title="⭐️ Cultura",CUL| Film & Arts
+http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
+http://168.227.22.18:1935/live/mobile-153/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8lH72u2zsw3qf4V4e_XlVAFKKIYGwiwdKKA&usqp=CAU" group-title="⭐️ Cultura",CUL| Lifetime
+http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOjljofNKSWZJ8bZTJJUW0KnULTp63NvEGPA&usqp=CAU" group-title="⭐️ Cultura",CUL| E!
+http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORT " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="⭐️ Deporte Colombia",COL |  WIN SPORTS
