@@ -78,7 +78,7 @@ http://iptvtree.net:8080/F27279/bdad41ff/3057
 #EXTINF:-1 tvg-id="fx.mx" tvg-name="2MB | FX LQ" tvg-logo="http://descargas.podzone.net/logos/-FX.png" group-title="⭐️ Cine Premium",CINE| FX
 http://iptvtree.net:8080/F27279/bdad41ff/295243
 #EXTINF:-1 tvg-id="space.mx" tvg-name="2MB | Space" tvg-logo="http://descargas.podzone.net/logos/-space.png" group-title="⭐️ Cine Premium",CINE| Space
-http://iptvtree.net:8080/F27279/bdad41ff/299325
+http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-AyE.png" group-title="⭐️ Cine Premium",CINE| A&E
 http://168.227.22.18:1935/live/mobile-158/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbpRTXivF3OhIeuAhDIMc0_bZh7yNCNo6H2w&usqp=CAU" group-title="⭐️ Cine Premium",CINE| AMC
@@ -110,7 +110,7 @@ https://i.mjh.nz/SamsungTVPlus/ESBD230000143.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE - CINE ESTELAR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRosJ3ygTiS0KFJHpfxrDQgbpU7l6r5wTWHVQ&usqp=CAU" group-title="⭐️ Cine Premium",CINE| bigtime
 https://i.mjh.nz/SamsungTVPlus/ESBC2700003T8.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBAbU_gDqT6pZFl3ceqgQNWwDNPiebU8VphQ&usqp=CAU" group-title="⭐️ Cine Premium",CINE| distrito comedia 
-http://181.214.220.108:25461/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/26923?token=GkMOV0pdG18SA1dYAQFQBgJQDAMDUg0PAARXBAZXAFNQVFYBD1YNXQMXGUNHFxRXAllmXVYVDgRSCVRWHUcWEgQTOV9dFwNHBgENUgxURB5BQFBZVxUOB1MAUV0HV1pWWU1ERlBRG18SBg1TAFpEHkFRQUBXRVpXCG8CAEcMAARDWwhDVVkVR19bagVRDgdcBxYDFgIVGBQNQxZHCwsWDQ1NRFRQQUsERFAXWxZWVgBaFhUWUVhBWBBCH0cLRyEzQ01EU0FBXAtDXFoPFllERhAWFRZbRGtEAUMSF1QEDgQTQ1wUCBcVR11UTT5XDAhcBldNXV1ZRxReElNVAUdPQwwOCF9NWks6QFxRQw5BVwFRBwAWTw==
+
 
 
 #EXTINF:-1 tvg-id="APMXHD" tvg-name="C | Animal Planet" tvg-logo="http://descargas.podzone.net/logos/-animal-planet.png" group-title="⭐️ Cultura",CUL| Animal Planet
