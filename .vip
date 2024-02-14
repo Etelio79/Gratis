@@ -291,3 +291,11 @@ http://novared.pro:8080/motors/checkmotors131021/110627
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/186831.ts
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUl5HsDRyMmq38G6So4j36aJY3fnRqsM3sJQ&usqp=CAU" group-title="⭐️ Infantiles",INF|los Simpsons
 http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/357029
+
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="⭐️ Usa Latinos", TELEMUNDO 
+http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="⭐️ Usa Latinos", TELEMUNDO INTERNACIONAL
+http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
+
+
