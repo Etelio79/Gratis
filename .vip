@@ -81,9 +81,10 @@ http://iptvtree.net:8080/F27279/bdad41ff/295243
 http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-AyE.png" group-title="⭐️ Cine Premium",CINE| A&E
 http://168.227.22.18:1935/live/mobile-158/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbpRTXivF3OhIeuAhDIMc0_bZh7yNCNo6H2w&usqp=CAU" group-title="⭐️ Cine Premium",CINE| AMC
- 
-#EXTINF:-1  tvg-logo="http://descargas.podzone.net/logos/-AXN.png" group-title="⭐️ Cine Premium",CINE| AXN
+#EXTINF:-1 tvg-id="" tvg-name="P | Paramount+ Presenta" tvg-logo="http://descargas.podzone.net/logos/-paramount.png" group-title="⭐️ Cine Premium",CINE| Paramount
+http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
+#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="2MB | Cinecanal"  tvg-logo="http://descargas.podzone.net/logos/-cinecanal.png" group-title="⭐️ Cine Premium",CINE| Cinecanal
+http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DPLUSSD" tvg-name="P | De Pelicula" tvg-logo="http://descargas.podzone.net/logos/-de-pelicula.png" group-title="⭐️ Cine Premium",CINE| De Pelicula
 http://iptvtree.net:8080/F27279/bdad41ff/31740
@@ -109,7 +110,12 @@ https://d10po0m73eydog.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://i.mjh.nz/SamsungTVPlus/ESBD230000143.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE - CINE ESTELAR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRosJ3ygTiS0KFJHpfxrDQgbpU7l6r5wTWHVQ&usqp=CAU" group-title="⭐️ Cine Premium",CINE| bigtime
 https://i.mjh.nz/SamsungTVPlus/ESBC2700003T8.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBAbU_gDqT6pZFl3ceqgQNWwDNPiebU8VphQ&usqp=CAU" group-title="⭐️ Cine Premium",CINE| distrito comedia 
+#EXTINF:-1 tvg-id="UNTVCHD" tvg-name="E | Universal TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB_erVs6qzPR4WdBjIYsgIOi7UvzQrG7oZhg&usqp=CAU" group-title="⭐️ Cine Premium",CINE| A3cine
+http://168.227.22.18:1935/live/mobile-028/playlist.m3u8
+#EXTINF:-1 tvg-id="MPREL" tvg-name="P | Multipremier" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/oqccogvw2k3tmpul6heb0/multipremier.png?rlkey=u954lcq1gn6d9zwwys5jhmlik&dl=0" group-title="⭐️ Cine Premium",CINE| Multipremier
+http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
+#EXTINF:-1 tvg-id="UNTVCHD" tvg-name="E | Universal TV" tvg-logo="http://descargas.podzone.net/logos/-universal-channel.png" group-title="⭐️ Cine Premium",CINE| universal channel
+http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
 
 
 
