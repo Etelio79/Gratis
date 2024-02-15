@@ -68,7 +68,7 @@ http://iptvtree.net:8080/F27279/bdad41ff/3058
 http://iptvtree.net:8080/F27279/bdad41ff/3057
 #EXTINF:-1 tvg-id="fx.mx" tvg-name="2MB | FX LQ" tvg-logo="http://descargas.podzone.net/logos/-FX.png" group-title="⭐️ Cine Premium",CINE| FX
 http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
-#EXTINF:-1 tvg-id="space.mx" tvg-name="2MB | Space" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhb9ga1hqM2ZIJJuzseaF0qXu7hiOLof47Pw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Space
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhb9ga1hqM2ZIJJuzseaF0qXu7hiOLof47Pw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Space
 http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-AyE.png" group-title="⭐️ Cine Premium",CINE| A&E
 http://168.227.22.18:1935/live/mobile-158/playlist.m3u8 
@@ -108,10 +108,6 @@ http://168.227.22.18:1935/live/mobile-120/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
 #EXTINF:-1 tvg-id="fox.mx" tvg-name="2MB | STAR CHANNEL LQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8bIE311mFAEe8p_LwuOKrT0i93OFBvXXE3g&usqp=CAU" group-title="⭐️ Cine Premium",CINE| STAR CHANNEL
 http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
-#EXTINF:-1 tvg-id="DPLUSSD" tvg-name="P | De Pelicula" tvg-logo="http://descargas.podzone.net/logos/-de-pelicula.png" group-title="⭐️ Cine Premium",CINE| De Pelicula
-http://iptvtree.net:8080/F27279/bdad41ff/31740
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="P | De Pelicula Clásico" tvg-logo="http://descargas.podzone.net/logos/-de-pelicula-plus.png" group-title="⭐️ Cine Premium",CINE| De Pelicula Clásico
-http://iptvtree.net:8080/F27279/bdad41ff/298053
 #EXTINF:-1 tvg-id="" tvg-name="CINE - MORBID TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTix81gxQ2PBOVRp2YRCMfcjGZM0UZdplf48A&usqp=CAU" group-title="⭐️ Cine Premium",CINE| seo películas 
 https://seo.tv.bo/tv/SEO1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE - CINE ESTELAR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRpjjaC7-sYZqOmgS4FTrUbwvHvSMi_7I2iQ&usqp=CAU" group-title="⭐️ Cine Premium",CINE| movie entretaiment
@@ -196,8 +192,6 @@ http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
 http://iptvtree.net:8080/F27279/bdad41ff/38603
 #EXTINF:-1 tvg-id="" tvg-name="AFIZZIONADOS" tvg-logo="http://descargas.podzone.net/logos/-afizzionados.png"  group-title=" ⭐️ Deporte VIP",AFIZZIONADOS 
 http://iptvtree.net:8080/F27279/bdad41ff/298042
-#EXTINF:-1 tvg-id="" tvg-name="ADRENALINA SPORTS" tvg-logo="http://descargas.podzone.net/logos/-adrenalina-sports-network.png"  group-title=" ⭐️ Deporte VIP",ADRENALINA 
-http://tv.nousiptv.com:8080/Angela/3475599848/1153331
 #EXTINF:-1 tvg-id="" tvg-name="TUDN SPORTS" tvg-logo="http://descargas.podzone.net/logos/-TUDN.png"  group-title=" ⭐️ Deporte VIP",TUDN
 http://tvmate.icu:8080/Alan/Alan1234/21644
 #EXTINF:-1 tvg-id="" tvg-name="TUDN SPORTS" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png"  group-title=" ⭐️ Deporte VIP",TUDN usa
@@ -216,6 +210,10 @@ http://novared.pro:8080/motors/checkmotors131021/218671
 http://novared.pro:8080/motors/checkmotors131021/218667
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjsjDmoWWNTubsSkmG8oaImdy3MhknjfgDhw&usqp=CAU" group-title=" ⭐️ Deporte VIP", la liga Movistar 
 http://40041804445165392.ofd0208.xyz:80/play/fe1222416/nb5q3TpUQg/165392.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS05VqMYkUqmJPfaweWnXSlCO0gynDVjquHvQ&usqp=CAU" group-title=" ⭐️ Deporte VIP", laa liga bar
+http://40041804445268042.ofd0208.xyz:80/play/fe1222416/nb5q3TpUQg/268042.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5xrKy9pzIaMZOfFmtJXOsXgQI9KVAJxS0vQ&usqp=CAU" group-title=" ⭐️ Deporte VIP", laa liga de campeones 
+http://40041804445165358.ofd0208.xyz:80/play/fe1222416/nb5q3TpUQg/165358.ts
  #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlCyIYFJQi1-EeHcQXZmpFvu7RiYHCgGgEDw&usqp=CAU" group-title=" ⭐️ Deporte VIP", cctv5
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSqKYy7HzUuURKwJTI8xseeGmhc1ezqycO_w&usqp=CAU" group-title=" ⭐️ Deporte VIP",  sky sport
