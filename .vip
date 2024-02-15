@@ -248,8 +248,6 @@ http://iptvtree.net:8080/F27279/bdad41ff/269911
 http://iptvtree.net:8080/F27279/bdad41ff/1672
 
 
-#EXTINF:-1 tvg-id="NKJRNOR" tvg-name="NIÑOS | Nick Jr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtpOxL3sDX9bz1UKuJUHw5fRrV1GUAVaWXwQ&usqp=CAU" grupo-title="⭐️ Infantiles",INF| Nick Jr
-http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTutC_Caxt-F1P9n8tpParhZiEkSeUcLshzVg&usqp=CAU" group-title="⭐️ Infantiles",INF| Tooncast
 http://168.227.22.18:1935/live/mobile-002/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0O3bNpPlsXQMrPnmyu2nQfXFxwxgiVNIQxQ&usqp=CAU" group-title="⭐️ Infantiles",INF| Cartoonito
@@ -258,6 +256,8 @@ http://168.227.22.18:1935/live/mobile-055/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpgKH9kQv82NrlNieyLxyVZuvFxpCK9ozxnQ&usqp=CAU" group-title="⭐️ Infantiles",INF| Baby tv
 http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtpOxL3sDX9bz1UKuJUHw5fRrV1GUAVaWXwQ&usqp=CAU" grupo-title="⭐️ Infantiles",INF| Nick Jr
+http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_kSwUohKjfWcKIR8A6w6dyPUSNWxho93lg&usqp=CAU" group-title="⭐️ Infantiles",INF| ZooMoo
 http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSV-gORxWd-uA5GjuXrUDROMFkyq6jX79hrQ&usqp=CAU" group-title="⭐️ Infantiles",INF| Dreamworks 
