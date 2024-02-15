@@ -190,6 +190,8 @@ http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbCnorejxWH1BID3ZLCbUboqyO1-vjhBMgQw&usqp=CAU" group-title=" ⭐️ Deporte VIP",ESPN SPORT 3 
 http://iptvtree.net:8080/F27279/bdad41ff/38603
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq9g5iC0xYQjSkKQWKLDsGbYt7Jra1w9Xbrw&usqp=CAU" group-title=" ⭐️ Deporte VIP",espn premium
+http://pro.boxdigital.org:8080/889999555/kNXg2rubQceT/181854
 #EXTINF:-1 tvg-id="" tvg-name="AFIZZIONADOS" tvg-logo="http://descargas.podzone.net/logos/-afizzionados.png"  group-title=" ⭐️ Deporte VIP",AFIZZIONADOS 
 http://iptvtree.net:8080/F27279/bdad41ff/298042
 #EXTINF:-1 tvg-id="" tvg-name="TUDN SPORTS" tvg-logo="http://descargas.podzone.net/logos/-TUDN.png"  group-title=" ⭐️ Deporte VIP",TUDN
