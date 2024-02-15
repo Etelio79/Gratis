@@ -212,6 +212,8 @@ http://novared.pro:8080/motors/checkmotors131021/218729
 http://novared.pro:8080/motors/checkmotors131021/218671
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="http://descargas.podzone.net/logos/-FUTV.png" group-title=" ⭐️ Deporte VIP",FUTV 
 http://novared.pro:8080/motors/checkmotors131021/218667
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjsjDmoWWNTubsSkmG8oaImdy3MhknjfgDhw&usqp=CAU" group-title=" ⭐️ Deporte VIP", la liga Movistar 
+http://40041804445165392.ofd0208.xyz:80/play/fe1222416/nb5q3TpUQg/165392.ts
  #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlCyIYFJQi1-EeHcQXZmpFvu7RiYHCgGgEDw&usqp=CAU" group-title=" ⭐️ Deporte VIP", cctv5
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSqKYy7HzUuURKwJTI8xseeGmhc1ezqycO_w&usqp=CAU" group-title=" ⭐️ Deporte VIP",  sky sport
