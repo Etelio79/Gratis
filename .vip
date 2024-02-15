@@ -86,7 +86,7 @@ http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
 #EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="2MB | Cinecanal"  tvg-logo="http://descargas.podzone.net/logos/-cinecanal.png" group-title="⭐️ Cine Premium",CINE| Cinecanal
 http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXU4JgV5wD-AamgX6ro-fnGxWWEiDpltzeAw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| golden premier
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg3zE1yMNR95v-NLsUiY_MhHKf-tbApjRpUw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| golden premier
 https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSi7SbFmeNZkV9LE5RyCfep3lwep5AavQJWw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Warner
 http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
