@@ -86,8 +86,8 @@ http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
 #EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="2MB | Cinecanal"  tvg-logo="http://descargas.podzone.net/logos/-cinecanal.png" group-title="⭐️ Cine Premium",CINE| Cinecanal
 http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
-#EXTINF:-1 tvg-id="andemundo.mx" tvg-name="E | A&E" tvg-logo="http://descargas.podzone.net/logos/-AyE.png" group-title="⭐️ Cine Premium",CINE| A&E
-http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXU4JgV5wD-AamgX6ro-fnGxWWEiDpltzeAw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| golden premier
+https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSi7SbFmeNZkV9LE5RyCfep3lwep5AavQJWw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Warner
 http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzofaKtKsTrAE8mYpDTadpD3eyw5lhrApLiA&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Movies plus 
@@ -296,5 +296,6 @@ http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/357029
 http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="⭐️ Usa Latinos", TELEMUNDO INTERNACIONAL
 http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-univision.png" group-title="⭐️ Usa Latinos", UNIVISION
+https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 
