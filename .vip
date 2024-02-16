@@ -222,6 +222,18 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 http://181.78.105.146:2000/play/a08m/index.m3u8
  #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk56fDBqBbFatAYrQLG9XNQXSdSehcqUpndg&usqp=CAU" group-title=" ⭐️ Deporte VIP",  TNT Sports
 http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjRAXlDo_MN9bWg8mfd-6KMRZT0Mt8ADA_eQ&usqp=CAU" group-title=" ⭐️ Deporte VIP", gol peru
+http://181.78.208.254:8010/play/a05g/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfMIHswoOhinYl2_AVkIrLMyXQhpz_NodzLw&usqp=CAU" group-title=" ⭐️ Deporte VIP", bein sport latino
+http://is.gd/P6ZVHA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ToLotXOwyIiE_NihyAXoLW89bb1BMXI5iA&usqp=CAU" group-title=" ⭐️ Deporte VIP", claro sport 1
+https://is.gd/w6ToaU
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ToLotXOwyIiE_NihyAXoLW89bb1BMXI5iA&usqp=CAU" group-title=" ⭐️ Deporte VIP", claro sport 2
+http://190.149.66.90:4000/play/a009/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR259GdKvJJy9GqFRtOvwG9orzI_lKVXx9NHw&usqp=CAU" group-title=" ⭐️ Deporte VIP", impact wrestling
+https://n9.cl/ehyi1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOzUbC3TwMglW0YBja9vOPLa9HhrJo4pBTAw&usqp=CAU" group-title=" ⭐️ Deporte VIP", comba tv
+https://is.gd/Ibo7DA
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJpIevXtFDFMKFaTZZDK_2mX50mW6JdmVxyQ&usqp=CAU" group-title=" ⭐️ Deporte VIP", vamos 
 http://50.7.234.234:8000/play/KE3MSK3JBS/c5PHPkxCU97/321072.ts?token=H0EMV0RQRl8UVQtSB1UAAAdXVQhVAVNWUQBeCVpcVgoGAgAFBQhUA1BDFRZAFkBdBw48WFASDVcHBlYPURQXRhcGFmleXEZfFFMJAgFQCxpKQRdYWVUVXgQAVg9aCA0HVVNIFEdRAEcMQwwAAlsQFEQGG0VRQlkFWWgCXRVRVlZGWQpDW1RIR1kPZlBWD1NWAkFZEwUSG0ZcRBYaWVZAXwhPRlReTBYEQgQbDhFSEBREAAxEWkRFHRcNRH0wGhkRARsQU1lLDQpYQwMWRxEQFEQKEG5GVUQQR1IHVQZKFwlGU0YaFVUFHWkCVlpdB1FMDwwNQhYKFVUXG0RVDFZcRwsRO0ZeXEZfFFQNBQJATw==
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="http://descargas.podzone.net/logos/-TENNIS-CHANNEL.png" group-title=" ⭐️ Deporte VIP", TENNIS CHANNEL 
