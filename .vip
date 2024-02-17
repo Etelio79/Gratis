@@ -108,6 +108,8 @@ http://168.227.22.18:1935/live/mobile-120/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
 #EXTINF:-1 tvg-id="fox.mx" tvg-name="2MB | STAR CHANNEL LQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8bIE311mFAEe8p_LwuOKrT0i93OFBvXXE3g&usqp=CAU" group-title="⭐️ Cine Premium",CINE| STAR CHANNEL
 http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbInomfr9qn8qwKKG7snrvckLXzgkyA-nieQ&usqp=CAU" group-title="⭐️ Cine Premium",CINE| clover peliculas 
+http://181.78.208.254:8010/play/a09p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE - MORBID TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTix81gxQ2PBOVRp2YRCMfcjGZM0UZdplf48A&usqp=CAU" group-title="⭐️ Cine Premium",CINE| seo películas 
 https://seo.tv.bo/tv/SEO1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE - CINE ESTELAR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRpjjaC7-sYZqOmgS4FTrUbwvHvSMi_7I2iQ&usqp=CAU" group-title="⭐️ Cine Premium",CINE| movie entretaiment
@@ -366,4 +368,9 @@ http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-univision.png" group-title="⭐️ Usa Latinos", UNIVISION
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://img.imges.icu/public/upload/cover/loadmg-4gCwRJWKG7PnEVtCxgKymF9kKxO.jpg" group-title="⭐️Estrenos 2024",madame web / hd-cam
+https://cvgb2me5toxe.enaak-cdn.com:443/hls2/01/01257/kn5ilmb9zfbe_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=KwCYpDFdFLIgYjZ6ok7WInZUu0B-d0wNa_Moa0pta9Q&s=1708135087&e=129600&f=6292202&srv=R5c6mhr83i3r&i=0.4&sp=1500&p1=R5c6mhr83i3r&p2=R5c6mhr83i3r&asn=52468
+
 
