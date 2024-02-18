@@ -218,6 +218,8 @@ http://168.227.22.18:1935/live/mobile-104/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCosoBzW18TLTPkvgRBWThJdi-iVUZamVi2Q&usqp=CAU" group-title="⭐️ Deporte mexico", FOX SPORTS 3 
 http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXUZi-Goe9Mnj2OIxOpSqOBIdAymo085TZ6A&usqp=CAU" group-title="⭐️ Deporte mexico", ESPN DEPORTES
+https://livex.pop-app.live/s4n/poplive/ch311/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_C-KVwUa_O4w_6mmkqjI7H6HaLYNWVT1Rcw&usqp=CAU" group-title="⭐️ Deporte mexico", ESPN SPORT 1 
 http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwWIvd6k63Amy4juhuAJvKh7tkX_Ca7apbQ&usqp=CAU" group-title="⭐️ Deporte mexico", ESPN SPORT 2
