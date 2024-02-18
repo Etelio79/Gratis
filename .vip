@@ -156,14 +156,6 @@ https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8?PlaylistM3UCL
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzofaKtKsTrAE8mYpDTadpD3eyw5lhrApLiA&usqp=CAU" group-title="⭐️ Extrema tv", EXT |Movies plus 
 http://168.227.22.18:1935/live/mobile-015/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQYZ9TZnpge2g91BuHDNH-4a1BD8EGsGDHkQ&usqp=CAU" group-title="⭐️ Extrema tv", EXT | starz max
-http://348604498725710925.ofd0216.xyz:80/play/hollywood/DY4tfh66hJWJ/710925.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkpvboc0oh7yxA1kd5mQgZCLTwaiR4ZkPNkw&usqp=CAU" group-title="⭐️ Extrema tv", EXT | starz cinema
-http://348604498725762427.ofd0216.xyz:80/play/hollywood/DY4tfh66hJWJ/762427.ts
-#EXTINF:-1 tvg-logo="/data/user/0/com.instantbits.cast.webvideo/cache/imageCastCache/u4fe0.jpeg" group-title="⭐️ Extrema tv", EXT | starz encore clasico
-http://348604498725771686.ofd0216.xyz:80/play/hollywood/DY4tfh66hJWJ/771686.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNBzWHk6XHqVvHA1XnCeaeuCcHlhiGVpzxiw&usqp=CAU" group-title="⭐️ Extrema tv", EXT | movie plex
-http://348604498725764686.ofd0216.xyz:80/play/hollywood/DY4tfh66hJWJ/764686.ts
 
 
 #EXTINF:-1 tvg-id="APMXHD" tvg-name="C | Animal Planet" tvg-logo="http://descargas.podzone.net/logos/-animal-planet.png" group-title="⭐️ Cultura",CUL| Animal Planet
@@ -419,8 +411,6 @@ https://static.vecteezy.com/system/resources/previews/027/875/539/no-signal-test
 #EXTINF:-1 tvg-logo="  https://64.media.tumblr.com/2728681bd1e88d5c0929f5ef466705f1/79df1c24e77176e1-0f/s640x960/ab47fc7b6f552a3dc623cdcc13c38f88ea1be80a.gif" group-title="⭐️ Venezuela",🇻🇪 | esperando link
 https://static.vecteezy.com/system/resources/previews/027/875/539/no-signal-test-tv-tv-no-signal-television-test-of-stripes-signal-tv-pattern-test-or-television-color-bars-signal-end-of-the-tv-colors-bars-for-background-free-video.webm
 #EXTINF:-1 tvg-logo=" https://64.media.tumblr.com/2728681bd1e88d5c0929f5ef466705f1/79df1c24e77176e1-0f/s640x960/ab47fc7b6f552a3dc623cdcc13c38f88ea1be80a.gif " group-title="⭐️ Mexico",🇲🇽 | esperando link
-https://static.vecteezy.com/system/resources/previews/027/875/539/no-signal-test-tv-tv-no-signal-television-test-of-stripes-signal-tv-pattern-test-or-television-color-bars-signal-end-of-the-tv-colors-bars-for-background-free-video.webm
-#EXTINF:-1 tvg-logo="  https://64.media.tumblr.com/2728681bd1e88d5c0929f5ef466705f1/79df1c24e77176e1-0f/s640x960/ab47fc7b6f552a3dc623cdcc13c38f88ea1be80a.gif" group-title="⭐️ Venezuela",🇻🇪 | esperando link
 https://static.vecteezy.com/system/resources/previews/027/875/539/no-signal-test-tv-tv-no-signal-television-test-of-stripes-signal-tv-pattern-test-or-television-color-bars-signal-end-of-the-tv-colors-bars-for-background-free-video.webm
 #EXTINF:-1 tvg-logo="  https://64.media.tumblr.com/2728681bd1e88d5c0929f5ef466705f1/79df1c24e77176e1-0f/s640x960/ab47fc7b6f552a3dc623cdcc13c38f88ea1be80a.gif" group-title="⭐️ Uruguay",🇺🇾 | esperando link
 https://static.vecteezy.com/system/resources/previews/027/875/539/no-signal-test-tv-tv-no-signal-television-test-of-stripes-signal-tv-pattern-test-or-television-color-bars-signal-end-of-the-tv-colors-bars-for-background-free-video.webm
