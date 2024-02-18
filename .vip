@@ -133,7 +133,7 @@ http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRpjjaC7-sYZqOmgS4FTrUbwvHvSMi_7I2iQ&usqp=CAU" group-title="⭐️ Extrema tv", EXT |movie entretaiment
 https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1547890901.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a39ae0962d6b0b34320db480996652b7.webp" group-title="⭐️ Extrema tv", EXT |tvs retro
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/16f8ed90cfdce23eb93131280ab06426.webp" group-title="⭐️ Extrema tv", EXT |extrema tv acción 
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/394e05d5e8744ed45ecd74d4c8cb93dd.webp" group-title="⭐️ Extrema tv", EXT |top cine
@@ -184,15 +184,15 @@ http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStlknFbYo_RzSpwuUeWgY1bM7NeRZUJMtgSA&usqp=CAU" group-title="⭐️ Entrenamiento",ENT | Film & Arts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStlknFbYo_RzSpwuUeWgY1bM7NeRZUJMtgSA&usqp=CAU" group-title="⭐️ Entretenimiento",ENT | Film & Arts
 http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8lH72u2zsw3qf4V4e_XlVAFKKIYGwiwdKKA&usqp=CAU" group-title="⭐️ Entrenamiento",ENT | Lifetime
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8lH72u2zsw3qf4V4e_XlVAFKKIYGwiwdKKA&usqp=CAU" group-title="⭐️ Entretenimiento",ENT | Lifetime
 http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOjljofNKSWZJ8bZTJJUW0KnULTp63NvEGPA&usqp=CAU" group-title="⭐️ Entrenamiento",ENT | E!
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOjljofNKSWZJ8bZTJJUW0KnULTp63NvEGPA&usqp=CAU" group-title="⭐️ Entretenimiento",ENT | E!
 http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
-#EXTINF:-1 tvg-id="GOURMTA" tvg-name="C | El Gourmet" tvg-logo="http://descargas.podzone.net/logos/-el-gourmet.png" group-title="⭐️ Entrenamiento",ENT | El Gourmet
+#EXTINF:-1 tvg-id="GOURMTA" tvg-name="C | El Gourmet" tvg-logo="http://descargas.podzone.net/logos/-el-gourmet.png" group-title="⭐️ Entretenimiento",ENT | El Gourmet
 http://168.227.22.18:1935/live/mobile-141/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - MORBID TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTix81gxQ2PBOVRp2YRCMfcjGZM0UZdplf48A&usqp=CAU" group-title="⭐️ Entrenamiento",ENT seo tv
+#EXTINF:-1 tvg-id="" tvg-name="CINE - MORBID TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTix81gxQ2PBOVRp2YRCMfcjGZM0UZdplf48A&usqp=CAU" group-title="⭐️ Entretenimiento",ENT |seo tv
 https://seo.tv.bo/tv/SEO1.m3u8
 
 
