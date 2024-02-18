@@ -81,7 +81,7 @@ http://iptvtree.net:8080/F27279/bdad41ff/3057
 #EXTINF:-1 tvg-id="HBOXLAM" tvg-name="P | HBO Xtreme" tvg-logo="http://descargas.podzone.net/logos/-HBO-xtream.png" group-title="⭐️ Cine Premium",CINE| HBO Xtreme
 http://fast.bounceme.net:8080/live/RAzc84ER9F/JUgfkebd7m/5992.ts
 #EXTINF:-1 tvg-id="MUNLEH" tvg-name="P | HBO Mundi" tvg-logo="http://descargas.podzone.net/logos/-HBO-mundi.png" group-title="⭐️ Cine Premium",CINE| HBO Mundi
-http://tv.nousiptv.com:8080/Angela/3475599848/1143815
+http://novared.pro:8080/motors/checkmotors131021/291012
 #EXTINF:-1 tvg-id="POPAM" tvg-name="P | HBO POP" tvg-logo="http://descargas.podzone.net/logos/-HBO-pop.png" group-title="⭐️ Cine Premium",CINE| HBO POP
 http://fast.bounceme.net:8080/live/RAzc84ER9F/JUgfkebd7m/5991.ts
 #EXTINF:-1 tvg-id="HBOSIG" tvg-name="P | Firma HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO-signature.png" grupo-title="⭐️ Cine Premium",CINE| HBO signature
@@ -112,8 +112,6 @@ http://latinoamericatv.vip:8080/User51xc/4eWATQWYDtpc/1290
 http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy9_23qztuHYhlclfjxPGt_SZcu7HDAv0VuQ&usqp=CAU" group-title="⭐️ Cine Premium",CINE| sony movies
 http://168.227.22.18:1935/live/mobile-034/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8g4pgtD9NRV7Q3SMRX1XUcxAkSyd3qR23Mw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Sony Channel
-http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQwAqYaamtexrk7fWIwrM7ptnqhyOBAy6UyQ&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Azteca Cinema
 http://168.227.22.18:1935/live/mobile-120/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Hsrmg7sVbz5j_ON2WZ8W7mgxKT5S9Jde3Q&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Europa-Europa
@@ -194,10 +192,12 @@ http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-141/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE - MORBID TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTix81gxQ2PBOVRp2YRCMfcjGZM0UZdplf48A&usqp=CAU" group-title="⭐️ Entretenimiento",ENT |seo tv
 https://seo.tv.bo/tv/SEO1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8g4pgtD9NRV7Q3SMRX1XUcxAkSyd3qR23Mw&usqp=CAU" group-title="⭐️ Entretenimiento",ENT | Sony Channel
+http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORT " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="⭐️ Deporte Colombia",COL |  WIN SPORTS
-http://latinoamericatv.vip:8080/User51xc/4eWATQWYDtpc/69294
+http://novared.pro:8080/motors/checkmotors131021/69293
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORT +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa9iUKf7e6EdC0sGXXNhraCLOo77y0YWMamQ&usqp=CAU" group-title="⭐️ Deporte Colombia",COL | WIN SPORT+ 
 http://novared.pro:8080/motors/checkmotors131021/156193
 
@@ -387,7 +387,7 @@ http://novared.pro:8080/motors/checkmotors131021/55273
 http://novared.pro:8080/motors/checkmotors131021/151590
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcWQM-jbRSOtqha7x7ztI-ruyYAhi6omyzJw&usqp=CAU"  group-title="⭐️ Chile",🇨🇱| mega
 https://ultrapremium.cloud:8443/643622031/4949pag/42
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcRn_gEEAQna9Wi-ljkLQzD2OjXJ0PSII-OA&usqp=CAU"  group-title="⭐️ Chile",🇨🇱| canal 13
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs6c7y-wGlQlRPPdxW3Ve23hALyJM2BuyISQ&usqp=CAU"  group-title="⭐️ Chile",🇨🇱| canal 13
 https://ultrapremium.cloud:8443/643622031/4949pag/51
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9KgNAwHBV54iUDftvV8FiIAtKcdpskerKqQ&usqp=CAU"  group-title="⭐️ Chile",🇨🇱| cnn chile
 https://ultrapremium.cloud:8443/643622031/4949pag/34
