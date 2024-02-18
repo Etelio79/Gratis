@@ -180,6 +180,8 @@ http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh8jqLtJqVtwJLxjjqE7ncr9S4sll9J5uS4w&usqp=CAU" group-title="⭐️ Cultura",CUL| National Geographic
 http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLWOZPvk_rWulR2blnb7c4j8VGfJaaGnh7Q&usqp=CAU " group-title="⭐️ Cultura",CUL| love nature
+http://novared.pro:8080/motors/checkmotors131021/291024
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStlknFbYo_RzSpwuUeWgY1bM7NeRZUJMtgSA&usqp=CAU" group-title="⭐️ Entretenimiento",ENT | Film & Arts
@@ -235,13 +237,13 @@ http://66.45.246.58:8080/live/fvXmbfv6YWCt/DS98LBFQF8dF/68749.ts?token=GRBaBUpRR
 #EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBylUqLV69dmzDCpR1JYi3ePnoZpF2fpBvTw&usqp=CAU"  group-title=" ⭐️ Deporte VIP",TYC SPORTS
 http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlXy2Z4mwo414Xcp7kbXuc5jkrghGpe35tHA&usqp=CAU" group-title=" ⭐️ Deporte VIP", td + 
-http://latinoamericatv.vip:8080/User51xc/4eWATQWYDtpc/218707
+http://novared.pro:8080/motors/checkmotors131021/218708
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ5DCwqwumvaddhj_uHZb6WC07NYqPodspRQ&usqp=CAU" group-title=" ⭐️ Deporte VIP",td + 2 
 http://novared.pro:8080/motors/checkmotors131021/218729
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8TjGwxS_R-JBk_pa74PHAQMBBvR60zCdIxA&usqp=CAU" group-title=" ⭐️ Deporte VIP",tigo sports
-http://novared.pro:8080/motors/checkmotors131021/218671
+http://novared.pro:8080/motors/checkmotors131021/218672
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="http://descargas.podzone.net/logos/-FUTV.png" group-title=" ⭐️ Deporte VIP",FUTV 
-http://novared.pro:8080/motors/checkmotors131021/218667
+http://novared.pro:8080/motors/checkmotors131021/218668
  #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlCyIYFJQi1-EeHcQXZmpFvu7RiYHCgGgEDw&usqp=CAU" group-title=" ⭐️ Deporte VIP", cctv5
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSqKYy7HzUuURKwJTI8xseeGmhc1ezqycO_w&usqp=CAU" group-title=" ⭐️ Deporte VIP",  sky sport
