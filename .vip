@@ -130,8 +130,16 @@ http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRpjjaC7-sYZqOmgS4FTrUbwvHvSMi_7I2iQ&usqp=CAU" group-title="⭐️ Extrema tv", EXT |movie entretaiment
 https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1547890901.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a39ae0962d6b0b34320db480996652b7.webp" group-title="⭐️ Extrema tv", EXT |tvs retro
-
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbFpbKi0GqYmlqhaMV1Fc7Jqb3OoDYYM6KMg&usqp=CAU" group-title="⭐️ Extrema tv", EXT | cinerama
+https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMYegiyb4IFpoftzY2k2A7URp6Ed52AtBJTw&usqp=CAU " group-title="⭐️ Extrema tv", EXT | play
+https://vivo.solumedia.com:19360/playtv/playtv.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvJqXtlfgMiMp-UgYniuKMopIbavCTEAK7Hg&usqp=CAU" group-title="⭐️ Extrema tv", EXT | cosmos
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNA_0DNowNdwibiFuRaQSXb3MmNl-htQQi-w&usqp=CAU" group-title="⭐️ Extrema tv", EXT | boreal
+https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgsy2NSLL57zATMKM6sOGDCOJmKQpsror-Ow&usqp=CAU" group-title="⭐️ Extrema tv", EXT | telemax
+https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/16f8ed90cfdce23eb93131280ab06426.webp" group-title="⭐️ Extrema tv", EXT |extrema tv acción 
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/394e05d5e8744ed45ecd74d4c8cb93dd.webp" group-title="⭐️ Extrema tv", EXT |top cine
