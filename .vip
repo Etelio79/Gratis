@@ -240,12 +240,28 @@ http://tvmate.icu:8080/Alan/Alan1234/21644
 http://tvmate.icu:8080/Alan/Alan1234/82241
 
 
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBQCNx8Mcyjs2Nrmc5JChTfbGNcnV7hiyFjQ&usqp=CAU" group-title="⭐️ Deporte argentina", direc tv sports (argentina)
+http://offshore.lat:8080/live/Oscaralma79/SvzsXJWaqCVR/294583.ts
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBQCNx8Mcyjs2Nrmc5JChTfbGNcnV7hiyFjQ&usqp=CAU " group-title="⭐️ Deporte argentina", direc tv sport 2 (argentina
+http://offshore.lat:8080/live/Oscaralma79/SvzsXJWaqCVR/1243.ts
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQwHeLnMs3YHa5BgBywGnhhZhhK5G1uKPR3w&usqp=CAU" group-title="⭐️ Deporte argentina", espn (argentina)
+http://offshore.lat:8080/live/Oscaralma79/SvzsXJWaqCVR/263376.ts
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQwHeLnMs3YHa5BgBywGnhhZhhK5G1uKPR3w&usqp=CAU " group-title="⭐️ Deporte argentina", espn 2 (argentina)
+http://offshore.lat:8080/live/Oscaralma79/SvzsXJWaqCVR/262403.ts
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrmhJ54lwP3vGJZjhrpdsfHviOmknw1JMAkQ&usqp=CAU" group-title="⭐️ Deporte argentina", fox sport (argentina)
+http://offshore.lat:8080/live/Oscaralma79/SvzsXJWaqCVR/1234.ts
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrmhJ54lwP3vGJZjhrpdsfHviOmknw1JMAkQ&usqp=CAU" group-title="⭐️ Deporte argentina", fox sport 2 (argentina)
+http://offshore.lat:8080/live/Oscaralma79/SvzsXJWaqCVR/1237.ts
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBylUqLV69dmzDCpR1JYi3ePnoZpF2fpBvTw&usqp=CAU"  group-title="⭐️ Deporte argentina", TYC SPORTS
+http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+ #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk56fDBqBbFatAYrQLG9XNQXSdSehcqUpndg&usqp=CAU" group-title="⭐️ Deporte argentina",  TNT Sports
+http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="http://descargas.podzone.net/logos/-tvc.png"  group-title=" ⭐️ Deporte VIP",TVC SPORTS 
 http://iptvtree.net:8080/F27279/bdad41ff/9075
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLFVSFyQ3moSme6j77wokFmqLn6HjxX_S2UA&usqp=CAU" group-title=" ⭐️ Deporte VIP", deportes tvc (Honduras)
 http://66.45.246.58:8080/live/fvXmbfv6YWCt/DS98LBFQF8dF/68749.ts?token=GRBaBUpRRglHUVZUAAFfXlUEV1cBUwBSVg0CAAADCQ9XVgoBWwpUVVVESUYSQUtdVV9qX1UTWFNeDwBbFRdNRQdAbQ1dG14RXFVSVUMZG0xdX1AUCwBVVV4JAFAKDAoaQEJbABsDRgFSX11QVQAbFBZXTUJUQwwECmdQB09cW1NACFwRVVVIEQoIOgAEWFhWUBAPFAATTkcPS0RAA1tNWg4eEAZQTRZSEQNHXg9AVVQYEFZZRF8WFx8aDkBsZhoaQFdKEFxXF1oKCEdeQ0FKGhgQXEVuQwcWEkpRA1RQShRYEAJGFRsJUh05BgsPW1xbQFtaWEITWEdUGhhAVFpWXxZdQDtJUAARX0RXU1gNCgADEEg=
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBylUqLV69dmzDCpR1JYi3ePnoZpF2fpBvTw&usqp=CAU"  group-title=" ⭐️ Deporte VIP",TYC SPORTS
-http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlXy2Z4mwo414Xcp7kbXuc5jkrghGpe35tHA&usqp=CAU" group-title=" ⭐️ Deporte VIP", td + 
 http://novared.pro:8080/motors/checkmotors131021/218708
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ5DCwqwumvaddhj_uHZb6WC07NYqPodspRQ&usqp=CAU" group-title=" ⭐️ Deporte VIP",td + 2 
@@ -260,8 +276,6 @@ http://novared.pro:8080/motors/checkmotors131021/218668
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSqKYy7HzUuURKwJTI8xseeGmhc1ezqycO_w&usqp=CAU" group-title=" ⭐️ Deporte VIP",  sky sport
 http://181.78.105.146:2000/play/a08m/index.m3u8
- #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk56fDBqBbFatAYrQLG9XNQXSdSehcqUpndg&usqp=CAU" group-title=" ⭐️ Deporte VIP",  TNT Sports
-http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjRAXlDo_MN9bWg8mfd-6KMRZT0Mt8ADA_eQ&usqp=CAU" group-title=" ⭐️ Deporte VIP", gol peru
 http://181.78.208.254:8010/play/a05g/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfMIHswoOhinYl2_AVkIrLMyXQhpz_NodzLw&usqp=CAU" group-title=" ⭐️ Deporte VIP", bein sport latino
@@ -455,8 +469,34 @@ https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 http://192.168.100.169:30001/file/IKLzaXdM/video.mp4
 #EXTINF:-1 tvg-logo=" https://64.media.tumblr.com/2728681bd1e88d5c0929f5ef466705f1/79df1c24e77176e1-0f/s640x960/ab47fc7b6f552a3dc623cdcc13c38f88ea1be80a.gif " group-title="⭐️ Costa Rica",🇨🇷 | eserando link
 https://static.vecteezy.com/system/resources/previews/027/875/539/no-signal-test-tv-tv-no-signal-television-test-of-stripes-signal-tv-pattern-test-or-television-color-bars-signal-end-of-the-tv-colors-bars-for-background-free-video.webm
-#EXTINF:-1 tvg-logo="  https://64.media.tumblr.com/2728681bd1e88d5c0929f5ef466705f1/79df1c24e77176e1-0f/s640x960/ab47fc7b6f552a3dc623cdcc13c38f88ea1be80a.gif" group-title="⭐️ Argentina",🇦🇷| esperando link
+#EXTINF:-1 tvg-logo="  https://www.bbmgif.com/images/a2/mundial/argentina2.gif" group-title="⭐️ Argentina",🇦🇷| argentina online 
 https://static.vecteezy.com/system/resources/previews/027/875/539/no-signal-test-tv-tv-no-signal-television-test-of-stripes-signal-tv-pattern-test-or-television-color-bars-signal-end-of-the-tv-colors-bars-for-background-free-video.webm
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHELvpwU3M3IjESp_I1ZWC-XDeeSAZFqJt5g&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| a24
+https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSewV6QVqYeBWkmFgYJFfz6Gc5TAR3LpKVuKg&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| c5n
+https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr5vRVGkdgGMYkSotVzxq68sb78kCZiY1LTg&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| canal 26
+https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhH2q2uo78wXwSGAQG6kkW_ju3Gv-u-RcHMg&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| cronica tv
+https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr-9Fs8V1Q09HR1f3IcZEBOtpY4dyHNFoirw&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| canal 12 cordoba
+https://ythls.armelin.one/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2J_S415jBOCxStwPlBRhkIBQaFitOHaux1Q&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| el 9 
+https://ythls.armelin.one/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScPhoFhNaKTbK9_KRA_2UcTZmt_GaTeL1VJw&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| la nacion +
+https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2AL2KG609gUsk3OJFCgaC_REXJjbY5z24ww&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| canal rural
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxiDtFGlonYUu2hSD4i3MzyA8ZCcTd3f_x2w&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| net tv 
+https://unlimited1-us.dps.live:443/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?nimblesessionid=816135199
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVRUMGDhsjkP5tFWsCkT8IEyKFsGgA4IM3Dg&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| todo noticias
+https://ythls.armelin.one/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTefPqVU5H5OySUjg4psoxMsvE0il693LasFw&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| tv publica
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaMAVOz4LJ5fkaEGPKgbuiUj4TpFDQTQDknw&usqp=CAU  " group-title="⭐️ Argentina",🇦🇷| 24/7 noticias
+https://panel.dattalive.com/6605140/6605140/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="  https://64.media.tumblr.com/2728681bd1e88d5c0929f5ef466705f1/79df1c24e77176e1-0f/s640x960/ab47fc7b6f552a3dc623cdcc13c38f88ea1be80a.gif" group-title="⭐️ Venezuela",🇻🇪 | esperando link
 https://static.vecteezy.com/system/resources/previews/027/875/539/no-signal-test-tv-tv-no-signal-television-test-of-stripes-signal-tv-pattern-test-or-television-color-bars-signal-end-of-the-tv-colors-bars-for-background-free-video.webm
 #EXTINF:-1 tvg-logo=" https://64.media.tumblr.com/2728681bd1e88d5c0929f5ef466705f1/79df1c24e77176e1-0f/s640x960/ab47fc7b6f552a3dc623cdcc13c38f88ea1be80a.gif " group-title="⭐️ Mexico",🇲🇽 | esperando link
