@@ -69,7 +69,6 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 https://canal.mediaserver.com.co/live/telemusica.m3u8
 
 
-
 #EXTINF:-1 tvg-id="hbo.mx" tvg-name="2MB | HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="⭐️ Cine Premium",CINE| HBO
  http://571199371161657200.ofd0208.xyz:80/play/vi713179/nMFB8xYAHBhh/657200.ts
 #EXTINF:-1 tvg-id="hbo2.mx" tvg-name="2MB | HBO 2" tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png" grupo -title="⭐️ Cine Premium",CINE| HBO 2
@@ -310,6 +309,8 @@ http://50.7.234.234:8000/play/KE3MSK3JBS/c5PHPkxCU97/321072.ts?token=H0EMV0RQRl8
 https://i.mjh.nz/SamsungTVPlus/ESBD2600001ME.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkdVu2jtPYYOuh8_wxqfeORrFNafIzgsWSmA&usqp=CAU"group-title="⭐️ Tv Deporte españa", Teledeporte
 https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXa1FdkQBzgOgx_1o5BMm60su9RQ0HkiZ1ag&usqp=CAU " group-title="⭐️ Tv Deporte españa", bein esport ñ
+http://offshore.lat:8080/live/Oscaralma79/SvzsXJWaqCVR/244576.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 1 FHD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZ5UTCOeWgHCSzTtzIG74Qrl-0duXJhd0Rg&usqp=CAU" group-title="⭐️ Tv Dazn Eventos",DAZN MOVISTAR 1
@@ -388,7 +389,6 @@ https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/186831.ts
 http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/357029
 
 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ibbGrKU1aYKqalHcS_Hu5J7lcW_WVbOJBQ&usqp=CAU"  group-title="⭐️ Tv españa",🇪🇦 | Movistar accion
 http://929060804137321306.ofd0208.xyz:80/play/fe1222416/nb5q3TpUQg/321306.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1EOaWh0IZPD966D4B_-kyFjvotdpyYt28EA&usqp=CAU"  group-title="⭐️ Tv españa",🇪🇦 | Movistar la resistencia
@@ -413,6 +413,12 @@ http://260955604778782126.ofd0216.xyz:80/play/fe1222416/nb5q3TpUQg/782126.ts
 http://haksba3.ovh:37500/malki1/malki/115928
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWpWuWtJhv07WlSdcWIx9o8Wd0jS8kst-Dcw&usqp=CAU" group-title="⭐️ Tv españa",🇪🇦 | la 1
 http://haksba3.ovh:37500/malki1/malki/115916
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR31UIF3J30rF2DC51zPxSC-y1WyhSF-cv2BQ&usqp=CAU " group-title="⭐️ Tv españa",🇪🇦 | antena 3
+http://30644735722321105.ofd0219.xyz:80/play/vi85061/3BBMHG@mxw/321105.ts
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxyINvLwQNkWw-TJ2QxbGFo_-K79iQxvlJfQ&usqp=CAU" group-title="⭐️ Tv españa",🇪🇦 | cuatro
+http://30644735722321196.ofd0219.xyz:80/play/vi85061/3BBMHG@mxw/321196.ts
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY6-SjdTN4Fr6s1uagBffsAu62OHl-Vc0c_Q&usqp=CAU" group-title="⭐️ Tv españa",🇪🇦 | sexta
+http://198.16.106.146:8000/play/vi85061/3BBMHG@mxw/321288.ts?token=H0EMV0RQRl8UWQFSV1dRXlcFU1MBUg5TUAEFAVFbBQoGWwYDAApQVANDFRZAFkBdBw48WFASDVcHBlQAWxQXRhcGFmleXEZfFFMPAQRXBRpKQRdYWVUVXgQAVgBQDwEKV1BIFEdRAEcMQwENBFYQFEQGG0VRQlkFWWgCXRVRVlZGWQpDW1RIR1kPZlBWD1NWAkFZEwUSG0ZcRBYaWVZAXwhPRlReTBYEQgQbDhFSEBREAAxEWkRFHRcNRHYvGhkRARsQU1lLDQpYQwMWRxEQFEQKEG5GVUQQR1IHVQZKFwlGU0YaFVUFHWkCVlpdB1FMDwwNQhYKFVcXG0RVDFZcRwsRO0ZeXEZfFFIBAgpATw==
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOTn5jykauW0smu6OgpHSvWCpFVT03S2wkbw&usqp=CAU"  group-title="⭐️ Chile",🇨🇱| chilevisión 
@@ -431,7 +437,14 @@ https://ultrapremium.cloud:8443/643622031/4949pag/70
 https://ultrapremium.cloud:8443/643622031/4949pag/55
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRzpC9w64YMfigFBAOrxLbHrWkSG96ujwIeg&usqp=CAU"  group-title="⭐️ Chile",🇨🇱| teleseries
 https://ultrapremium.cloud:8443/643622031/4949pag/82
-
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtCaB4-xuepDYF5gaK2-17iyYx6xNHNAvzmQ&usqp=CAU " group-title="⭐️ Chile",🇨🇱| 13 cultura
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnOvxMzZPkFLPUHzXupSmcjCo1mu-Q5RA4IQ&usqp=CAU" group-title="⭐️ Chile",🇨🇱| 13 entretencion
+https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfUMQKvfOXsVTEL0T2ZPRv-RPRa5z9Aurw8A&usqp=CAU " group-title="⭐️ Chile",🇨🇱| 13 festival
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl-USQDjjb_ARvP1dlXNIz4t3bPM4GC7LY0w&usqp=CAU" group-title="⭐️ Chile",🇨🇱| 24 horas
+https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 
 
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEj1cS-IRuXj9_9hWN7YOxehwg-83R4qbtlg&usqp=CAU" group-title="⭐️ Uruguay",🇺🇾 | canal 10
