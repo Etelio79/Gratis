@@ -21,6 +21,8 @@ http://168.227.22.18:1935/live/mobile-066/playlist.m3u8
 https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0P2uX5houL4Xgxj3KI2OZj9zmJ9Ua-Bp8ig&usqp=CAU" group-title="⭐️ Telenovelas",TlN | Kanal D Drama
 http://168.227.22.18:1935/live/mobile-097/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4v0fm49xRwjdgUlxKwjvFsCC-o2jgHOPEng&usqp=CAU  " group-title="⭐️ Telenovelas",TlN | tnt novelas
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/1499
 
 
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwKhO6kqI7vJBtf9vl1wsCn9pNe-CQxqCoLA&usqp=CAU" group-title="⭐️ Musica",MUS| vallenatos internacional 
@@ -139,6 +141,8 @@ http://168.227.22.18:1935/live/mobile-047/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
 #EXTINF:-1 tvg-id="UNTVCHD" tvg-name="E | Universal TV" tvg-logo="http://descargas.podzone.net/logos/-universal-channel.png" group-title="⭐️ Cine Premium",CINE| universal channel
 http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO5pW3OIoS49XWgb_qI7rCgZPE45J9LTPsJQ&usqp=CAU" group-title="⭐️ Cine Premium",CINE| universal cinema
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/1464
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRpjjaC7-sYZqOmgS4FTrUbwvHvSMi_7I2iQ&usqp=CAU" group-title="⭐️ Extrema tv", EXT |movie entretaiment
