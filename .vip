@@ -31,6 +31,8 @@ https://tgn.bozztv.com/ssh101/ssh101/qMUAZEy/playlist.m3u8
 https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w450170138.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/74a76057b28ccd9c9d48045b64825ff9.webp" group-title="⭐️ Musica",MUS| trace urban
 https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7IkVuAwbKlLEem88K-i4jTavHa_a2YspH6Q&usqp=CAU " group-title="⭐️ Musica",MUS| urbano tv
+https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3IR6ubaLnCGvkjEpsYJ1WZUh__kIomU_TdA&usqp=CAU" group-title="⭐️ Musica",MUS| MTV
 http://168.227.22.18:1935/live/mobile-063/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3wISSH5rlsKYEkVWUP2-whlzds-JVQyEy5w&usqp=CAU" group-title="⭐️ Musica",MUS| NickMusic
@@ -208,9 +210,9 @@ https://seo.tv.bo/tv/SEO1.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORT " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="⭐️ Deporte Colombia",COL |  WIN SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORT " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="⚽ Deporte Colombia",COL |  WIN SPORTS
 http://novared.pro:8080/motors/checkmotors131021/69293
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORT +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa9iUKf7e6EdC0sGXXNhraCLOo77y0YWMamQ&usqp=CAU" group-title="⭐️ Deporte Colombia",COL | WIN SPORT+ 
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORT +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa9iUKf7e6EdC0sGXXNhraCLOo77y0YWMamQ&usqp=CAU" group-title="⚽ Deporte Colombia",COL | WIN SPORT+ 
 http://novared.pro:8080/motors/checkmotors131021/156193
 
 
@@ -431,6 +433,13 @@ http://thetrxonlinepow.com:80/live/253pixa/6d7jnTLtvR/201012.ts
 http://thetrxonlinepow.com:80/live/253pixa/6d7jnTLtvR/136154.ts
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkARsV3mZnQ_uMD1419HpICMQTLEboUXjFJw&usqp=CAU" group-title="⭐️ Tv españa",🇪🇦 | be-mad
 http://thetrxonlinepow.com:80/live/253pixa/6d7jnTLtvR/1430461.ts
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREJc2htCFERyaihqIpccoms5Ca4XlcMeGBig&usqp=CAU " group-title="⭐️ Tv españa",🇪🇦 | canal la 2
+http://513306557982321280.ofd0219.xyz:80/play/vi85061/3BBMHG@mxw/321280.ts
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_e6ORHA07sy2EJc0gOZeJIY-mlJjKPxOH-A&usqp=CAU " group-title="⭐️ Tv españa",🇪🇦 | energy
+http://haksba3.ovh:37500/malki1/malki/115941
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYtsLzxkIHc8DvYSSLjRM2GUtPf1c7P_e98A&usqp=CAU" group-title="⭐️ Tv españa",🇪🇦 | divinity
+http://haksba3.ovh:37500/malki1/malki/115951http://haksba3.ovh:37500/malki1/malki/115951
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOTn5jykauW0smu6OgpHSvWCpFVT03S2wkbw&usqp=CAU"  group-title="⭐️ Chile",🇨🇱| chilevisión 
 http://novared.pro:8080/motors/checkmotors131021/55273
