@@ -601,9 +601,9 @@ http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/411.m3u8
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxFBiHPStW9nmfS5WaZ4EuFPKf6QtTJKLwuQ&usqp=CAU" group-title="⭐️ Colombia",🇨🇴 | cablenoticias
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0DmOpuctcQb3E8CIM5XfwrW9I5eGZwqS1SA&usqp=CAU" group-title="⭐️ Colombia",🇨🇴 |RCN TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMQN0cxjp2tbbMUIXB5JhBqoOkZ4ZL8GOs-Q&usqp=CAU" group-title="⭐️ Colombia",🇨🇴 |RCN TV
 http://181.78.208.254:8010/play/a04i/index.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtRK6-n735PRUOM-wA2Q0nnZ3xMG5ZsdDb5g&usqp=CAU" group-title="⭐️ Colombia",🇨🇴 | rcn +
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtRK6-n735PRUOM-wA2Q0nnZ3xMG5ZsdDb5g&usqp=CAU" group-title="⭐️ Colombia",🇨🇴 | rcn mas
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDqWRMZEDhBGnGl1KqZuC5tIsTrCS5rdYvng&usqp=CAU " group-title="⭐️ Colombia",🇨🇴 | señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
@@ -611,6 +611,10 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHuvSfuYHFtW1SvfV0nqOYiPWGhX0sN66-WA&usqp=CAU" group-title="⭐️ Colombia",🇨🇴 | telepacifico
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSykw7AGd4MLbvcXZiXzMB8JIfcbqyCAsyleQ&usqp=CAU" group-title="⭐️ Colombia",🇨🇴 |canal 1
+https://ultrapremium.cloud:8443/49ruqe45zu42su67/m59me2me37m/330
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Q7gR_Ps4qNRPVElNTrJzlhrekg3xE15r2w&usqp=CAU" group-title="⭐️ Colombia",🇨🇴 |city tv
+https://ultrapremium.cloud:8443/49ruqe45zu42su67/m59me2me37m/337
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5S_-1FaUuakLw-cu_6PhskTQn-BSteFUtQw&usqp=CAU " group-title="⭐️ Colombia",🇨🇴 |mas tv
 https://video.ejeserver.com/live/teledoradahd.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIrItv_M-LHK7sc4C820-s9c65ZZbfwb9OQQ&usqp=CAU  " group-title="⭐️ Colombia",🇨🇴 | canal 9
