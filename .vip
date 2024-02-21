@@ -104,11 +104,11 @@ http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="P | Paramount+ Presenta" tvg-logo="http://descargas.podzone.net/logos/-paramount.png" group-title="⭐️ Cine Premium",CINE| Paramount
 http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
 #EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="2MB | Cinecanal"  tvg-logo="http://descargas.podzone.net/logos/-cinecanal.png" group-title="⭐️ Cine Premium",CINE| Cinecanal
-http://latinoamericatv.vip:8080/User51xc/4eWATQWYDtpc/1252
+http://novared.pro:8080/motors/checkmotors131021/1252
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg3zE1yMNR95v-NLsUiY_MhHKf-tbApjRpUw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| golden premier
 https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUMV5fp5exW8QCcrCLpu4zCF7GWAasUsltug&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Golden EDGE
-http://latinoamericatv.vip:8080/User51xc/4eWATQWYDtpc/1290
+http://novared.pro:8080/motors/checkmotors131021/1290
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSi7SbFmeNZkV9LE5RyCfep3lwep5AavQJWw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Warner
 http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy9_23qztuHYhlclfjxPGt_SZcu7HDAv0VuQ&usqp=CAU" group-title="⭐️ Cine Premium",CINE| sony movies
@@ -278,8 +278,6 @@ http://novared.pro:8080/motors/checkmotors131021/218668
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSqKYy7HzUuURKwJTI8xseeGmhc1ezqycO_w&usqp=CAU" group-title=" ⚽ Deporte VIP",  sky sport
 http://181.78.105.146:2000/play/a08m/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjRAXlDo_MN9bWg8mfd-6KMRZT0Mt8ADA_eQ&usqp=CAU" group-title=" ⚽ Deporte VIP", gol peru
-http://181.78.208.254:8010/play/a05g/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfMIHswoOhinYl2_AVkIrLMyXQhpz_NodzLw&usqp=CAU" group-title=" ⚽ Deporte VIP", bein sport latino
 http://is.gd/P6ZVHA
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ToLotXOwyIiE_NihyAXoLW89bb1BMXI5iA&usqp=CAU" group-title=" ⚽ Deporte VIP", claro sport 1
@@ -546,7 +544,11 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRla_xTmynjPtqy0q36a_GlzU6weJyirsI3xA&usqp=CAU" group-title="⚽ Deportes Perú", contacto deportivo (peru)
 https://live.obslivestream.com/cdeportivo/index.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQc6KYOae8Xzv_kiZa_1WmfGqONQ7fqDxO_A&usqp=CAU " group-title="⚽ Deportes Perú", gol peru (peru)
-https://ultrapremium.cloud:8443/Manuel2023/5ahJ2GFafSJg/307
+http://181.78.208.254:8010/play/a05g/index.m3u8
+ #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeJiK8PhVRpAUSenKIIf8LkmpXQvjQC9nneA&usqp=CAU " group-title="⚽ Deportes Perú", liga 1 max
+http://novared.pro:8080/motors/checkmotors131021/330756
+ #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUXMUpgIHkV6xOPktSNpJyX1MVGderuHfXrA&usqp=CAU" group-title="⚽ Deportes Perú", universitario tv
+http://novared.pro:8080/motors/checkmotors131021/330785
 
 
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXYlyPSJrzQiDmNHeK306g-gZxRbEyNT6ITw&usqp=CAU " group-title="⭐️ Mexico",🇲🇽 | amx noticias
