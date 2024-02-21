@@ -17,6 +17,8 @@ http://novared.pro:8080/motors/checkmotors131021/63191
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLeNPFGhAv5vv5l1NabbGuWPynbe5xb0x6jg&usqp=CAU" group-title="⭐️ Telenovelas",TlN | rcn novelas 
 http://168.227.22.18:1935/live/mobile-066/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGjYyFqnDMlGn4nUS-yr3o_H_vfJOdIp9JUA&usqp=CAU" group-title="⭐️ Telenovelas",TlN | telenovelas
+https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0P2uX5houL4Xgxj3KI2OZj9zmJ9Ua-Bp8ig&usqp=CAU" group-title="⭐️ Telenovelas",TlN | Kanal D Drama
 http://168.227.22.18:1935/live/mobile-097/playlist.m3u8
 
@@ -212,105 +214,112 @@ http://novared.pro:8080/motors/checkmotors131021/69293
 http://novared.pro:8080/motors/checkmotors131021/156193
 
 
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOzUbC3TwMglW0YBja9vOPLa9HhrJo4pBTAw&usqp=CAU" group-title="⭐️ Deporte mexico", FOX SPORTS  1 (México)
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOzUbC3TwMglW0YBja9vOPLa9HhrJo4pBTAw&usqp=CAU" group-title="⚽ Deportes Mexico",  FOX SPORTS  1 (México)
 http://168.227.22.18:1935/live/mobile-104/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZhooTjS95cU_5z6UWVIJh-0DBHy-aA7RIoQ&usqp=CAU" group-title="⭐️ Deporte mexico", FOX SPORTS 2 (México)
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZhooTjS95cU_5z6UWVIJh-0DBHy-aA7RIoQ&usqp=CAU" group-title="⚽ Deportes Mexico",  FOX SPORTS 2 (México)
 http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCosoBzW18TLTPkvgRBWThJdi-iVUZamVi2Q&usqp=CAU" group-title="⭐️ Deporte mexico", FOX SPORTS 3 (México)
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCosoBzW18TLTPkvgRBWThJdi-iVUZamVi2Q&usqp=CAU" group-title="⚽ Deportes Mexico",  FOX SPORTS 3 (México)
 http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_C-KVwUa_O4w_6mmkqjI7H6HaLYNWVT1Rcw&usqp=CAU" group-title="⭐️ Deporte mexico", ESPN SPORT 1 (México)
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_C-KVwUa_O4w_6mmkqjI7H6HaLYNWVT1Rcw&usqp=CAU" group-title="⚽ Deportes Mexico",  ESPN SPORT 1 (México)
 http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwWIvd6k63Amy4juhuAJvKh7tkX_Ca7apbQ&usqp=CAU" group-title="⭐️ Deporte mexico", ESPN SPORT 2 (mexico)
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwWIvd6k63Amy4juhuAJvKh7tkX_Ca7apbQ&usqp=CAU" group-title="⚽ Deportes Mexico",  ESPN SPORT 2 (mexico)
 http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbCnorejxWH1BID3ZLCbUboqyO1-vjhBMgQw&usqp=CAU" group-title="⭐️ Deporte mexico", ESPN SPORT 3 (México)
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbCnorejxWH1BID3ZLCbUboqyO1-vjhBMgQw&usqp=CAU" group-title="⚽ Deportes Mexico",  ESPN SPORT 3 (México)
 http://iptvtree.net:8080/F27279/bdad41ff/38603
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlxRsJGmWmJSzt5q8FuCYTBAnTBuAgVEFCiQ&usqp=CAU"group-title="⭐️ Deporte mexico", espn 4 (México)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlxRsJGmWmJSzt5q8FuCYTBAnTBuAgVEFCiQ&usqp=CAU"group-title="⚽ Deportes Mexico",  espn 4 (México)
 http://190.108.85.20:9999/play/a00x
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC9J3EmSuhDb4xCQOVh64fqUT-fRHCFpUuQQ&usqp=CAU"group-title="⭐️ Deporte mexico", espn 5 (México)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC9J3EmSuhDb4xCQOVh64fqUT-fRHCFpUuQQ&usqp=CAU"group-title="⚽ Deportes Mexico",  espn 5 (México)
 http://latinoamericatv.vip:8080/User51xc/4eWATQWYDtpc/339551
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZAZTooZ7FxcyQr_DoYLsEDEsKSeYPwk00Q&usqp=CAU" group-title="⭐️ Deporte mexico", espn premium (México)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZAZTooZ7FxcyQr_DoYLsEDEsKSeYPwk00Q&usqp=CAU" group-title="⚽ Deportes Mexico",  espn premium (México)
 http://pro.boxdigital.org:8080/889999555/kNXg2rubQceT/181854
-#EXTINF:-1 tvg-id="" tvg-name="AFIZZIONADOS" tvg-logo="http://descargas.podzone.net/logos/-afizzionados.png"  group-title="⭐️ Deporte mexico", AFIZZIONADOS 
-http://iptvtree.net:8080/F27279/bdad41ff/298042
-#EXTINF:-1 tvg-id="" tvg-name="TUDN SPORTS" tvg-logo="http://descargas.podzone.net/logos/-TUDN.png"  group-title="⭐️ Deporte mexico", TUDN
-http://tvmate.icu:8080/Alan/Alan1234/21644
-#EXTINF:-1 tvg-id="" tvg-name="TUDN SPORTS" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png"  group-title="⭐️ Deporte mexico", TUDN usa
+ #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCRORK9Plo3gIbcz0C4b5h4FeCJoSUSRk6XQ&usqp=CAU" group-title="⚽ Deportes Mexico", fox sport premiun (mexico)
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/252733
+#EXTINF:-1 tvg-id="" tvg-name="AFIZZIONADOS" tvg-logo="http://descargas.podzone.net/logos/-afizzionados.png"  group-title="⚽ Deportes Mexico",  AFIZZIONADOS 
+https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TUDN SPORTS" tvg-logo="http://descargas.podzone.net/logos/-TUDN.png"  group-title="⚽ Deportes Mexico",  TUDN
+https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TUDN SPORTS" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png"  group-title="⚽ Deportes Mexico",  TUDN usa
 http://tvmate.icu:8080/Alan/Alan1234/82241
 
 
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBQCNx8Mcyjs2Nrmc5JChTfbGNcnV7hiyFjQ&usqp=CAU" group-title="⭐️ Deporte argentina", direc tv sports (argentina)
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBQCNx8Mcyjs2Nrmc5JChTfbGNcnV7hiyFjQ&usqp=CAU" group-title="⚽ Deportes argentina",  direc tv sports (argentina)
 http://offshore.lat:8080/live/Oscaralma79/SvzsXJWaqCVR/294583.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsl8or_Oto1vobff4XCUBHofL2uDkvpTr9Hw&usqp=CAU " group-title="⭐️ Deporte argentina", direc tv sport 2 (argentina
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsl8or_Oto1vobff4XCUBHofL2uDkvpTr9Hw&usqp=CAU " group-title="⚽ Deportes argentina",  direc tv sport 2 (argentina
 http://offshore.lat:8080/live/Oscaralma79/SvzsXJWaqCVR/1243.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQwHeLnMs3YHa5BgBywGnhhZhhK5G1uKPR3w&usqp=CAU" group-title="⭐️ Deporte argentina", espn (argentina)
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQwHeLnMs3YHa5BgBywGnhhZhhK5G1uKPR3w&usqp=CAU" group-title="⚽ Deportes argentina",  espn (argentina)
 http://offshore.lat:8080/live/Oscaralma79/SvzsXJWaqCVR/263376.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwWIvd6k63Amy4juhuAJvKh7tkX_Ca7apbQ&usqp=CAU " group-title="⭐️ Deporte argentina", espn 2 (argentina)
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwWIvd6k63Amy4juhuAJvKh7tkX_Ca7apbQ&usqp=CAU " group-title="⚽ Deportes argentina",  espn 2 (argentina)
 http://offshore.lat:8080/live/Oscaralma79/SvzsXJWaqCVR/262403.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrmhJ54lwP3vGJZjhrpdsfHviOmknw1JMAkQ&usqp=CAU" group-title="⭐️ Deporte argentina", fox sport (argentina)
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrmhJ54lwP3vGJZjhrpdsfHviOmknw1JMAkQ&usqp=CAU" group-title="⚽ Deportes argentina",  fox sport (argentina)
 http://offshore.lat:8080/live/Oscaralma79/SvzsXJWaqCVR/1234.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiK6YFYatR_bqQWe0x62EewJ2SQsoDYWySbA&usqp=CAU" group-title="⭐️ Deporte argentina", fox sport 2 (argentina)
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiK6YFYatR_bqQWe0x62EewJ2SQsoDYWySbA&usqp=CAU" group-title="⚽ Deportes argentina",  fox sport 2 (argentina)
 http://offshore.lat:8080/live/Oscaralma79/SvzsXJWaqCVR/1237.ts
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBylUqLV69dmzDCpR1JYi3ePnoZpF2fpBvTw&usqp=CAU"  group-title="⭐️ Deporte argentina", TYC SPORTS (argentina)
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBylUqLV69dmzDCpR1JYi3ePnoZpF2fpBvTw&usqp=CAU"  group-title="⚽ Deportes argentina",  TYC SPORTS (argentina)
 http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
- #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk56fDBqBbFatAYrQLG9XNQXSdSehcqUpndg&usqp=CAU" group-title="⭐️ Deporte argentina",  TNT Sports (argentina)
+ #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk56fDBqBbFatAYrQLG9XNQXSdSehcqUpndg&usqp=CAU" group-title="⚽ Deportes argentina",   TNT Sports (argentina)
 http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="http://descargas.podzone.net/logos/-tvc.png"  group-title=" ⭐️ Deporte VIP",TVC SPORTS 
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="http://descargas.podzone.net/logos/-tvc.png"  group-title=" ⚽ Deporte VIP",TVC SPORTS 
 http://iptvtree.net:8080/F27279/bdad41ff/9075
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLFVSFyQ3moSme6j77wokFmqLn6HjxX_S2UA&usqp=CAU" group-title=" ⭐️ Deporte VIP", deportes tvc (Honduras)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLFVSFyQ3moSme6j77wokFmqLn6HjxX_S2UA&usqp=CAU" group-title=" ⚽ Deporte VIP", deportes tvc (Honduras)
 http://66.45.246.58:8080/live/fvXmbfv6YWCt/DS98LBFQF8dF/68749.ts?token=GRBaBUpRRglHUVZUAAFfXlUEV1cBUwBSVg0CAAADCQ9XVgoBWwpUVVVESUYSQUtdVV9qX1UTWFNeDwBbFRdNRQdAbQ1dG14RXFVSVUMZG0xdX1AUCwBVVV4JAFAKDAoaQEJbABsDRgFSX11QVQAbFBZXTUJUQwwECmdQB09cW1NACFwRVVVIEQoIOgAEWFhWUBAPFAATTkcPS0RAA1tNWg4eEAZQTRZSEQNHXg9AVVQYEFZZRF8WFx8aDkBsZhoaQFdKEFxXF1oKCEdeQ0FKGhgQXEVuQwcWEkpRA1RQShRYEAJGFRsJUh05BgsPW1xbQFtaWEITWEdUGhhAVFpWXxZdQDtJUAARX0RXU1gNCgADEEg=
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlXy2Z4mwo414Xcp7kbXuc5jkrghGpe35tHA&usqp=CAU" group-title=" ⭐️ Deporte VIP", td + 
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlXy2Z4mwo414Xcp7kbXuc5jkrghGpe35tHA&usqp=CAU" group-title=" ⚽ Deporte VIP", td + 
 http://novared.pro:8080/motors/checkmotors131021/218708
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ5DCwqwumvaddhj_uHZb6WC07NYqPodspRQ&usqp=CAU" group-title=" ⭐️ Deporte VIP",td + 2 
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ5DCwqwumvaddhj_uHZb6WC07NYqPodspRQ&usqp=CAU" group-title=" ⚽ Deporte VIP",td + 2 
 http://novared.pro:8080/motors/checkmotors131021/218729
-#EXTINF:-1 tvg-logo="https://media0.giphy.com/media/wOi3Mu6YjsoGhC4oHT/giphy.gif" group-title=" ⭐️ Deporte VIP",tigo sports (costa rica)
+#EXTINF:-1 tvg-logo="https://media0.giphy.com/media/wOi3Mu6YjsoGhC4oHT/giphy.gif" group-title=" ⚽ Deporte VIP",tigo sports (costa rica)
 http://novared.pro:8080/motors/checkmotors131021/218672
- #EXTINF:-1 tvg-logo="https://media0.giphy.com/media/wOi3Mu6YjsoGhC4oHT/giphy.gif " group-title=" ⭐️ Deporte VIP", tigo sport (guatemala)
+ #EXTINF:-1 tvg-logo="https://media0.giphy.com/media/wOi3Mu6YjsoGhC4oHT/giphy.gif " group-title=" ⚽ Deporte VIP", tigo sport (guatemala)
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="http://descargas.podzone.net/logos/-FUTV.png" group-title=" ⭐️ Deporte VIP",FUTV 
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="http://descargas.podzone.net/logos/-FUTV.png" group-title=" ⚽ Deporte VIP",FUTV 
 http://novared.pro:8080/motors/checkmotors131021/218668
- #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlCyIYFJQi1-EeHcQXZmpFvu7RiYHCgGgEDw&usqp=CAU" group-title=" ⭐️ Deporte VIP", cctv5
+ #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlCyIYFJQi1-EeHcQXZmpFvu7RiYHCgGgEDw&usqp=CAU" group-title=" ⚽ Deporte VIP", cctv5
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSqKYy7HzUuURKwJTI8xseeGmhc1ezqycO_w&usqp=CAU" group-title=" ⭐️ Deporte VIP",  sky sport
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSqKYy7HzUuURKwJTI8xseeGmhc1ezqycO_w&usqp=CAU" group-title=" ⚽ Deporte VIP",  sky sport
 http://181.78.105.146:2000/play/a08m/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjRAXlDo_MN9bWg8mfd-6KMRZT0Mt8ADA_eQ&usqp=CAU" group-title=" ⭐️ Deporte VIP", gol peru
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjRAXlDo_MN9bWg8mfd-6KMRZT0Mt8ADA_eQ&usqp=CAU" group-title=" ⚽ Deporte VIP", gol peru
 http://181.78.208.254:8010/play/a05g/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfMIHswoOhinYl2_AVkIrLMyXQhpz_NodzLw&usqp=CAU" group-title=" ⭐️ Deporte VIP", bein sport latino
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfMIHswoOhinYl2_AVkIrLMyXQhpz_NodzLw&usqp=CAU" group-title=" ⚽ Deporte VIP", bein sport latino
 http://is.gd/P6ZVHA
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ToLotXOwyIiE_NihyAXoLW89bb1BMXI5iA&usqp=CAU" group-title=" ⭐️ Deporte VIP", claro sport 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ToLotXOwyIiE_NihyAXoLW89bb1BMXI5iA&usqp=CAU" group-title=" ⚽ Deporte VIP", claro sport 1
 https://is.gd/w6ToaU
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ToLotXOwyIiE_NihyAXoLW89bb1BMXI5iA&usqp=CAU" group-title=" ⭐️ Deporte VIP", claro sport 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ToLotXOwyIiE_NihyAXoLW89bb1BMXI5iA&usqp=CAU" group-title=" ⚽ Deporte VIP", claro sport 2
 http://190.149.66.90:4000/play/a009/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR259GdKvJJy9GqFRtOvwG9orzI_lKVXx9NHw&usqp=CAU" group-title=" ⭐️ Deporte VIP", impact wrestling
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR259GdKvJJy9GqFRtOvwG9orzI_lKVXx9NHw&usqp=CAU" group-title=" ⚽ Deporte VIP", impact wrestling
 https://n9.cl/ehyi1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-714t14CvuyX-hhjpy7eq6I4ZFPP3Y_hAQQ&usqp=CAU" group-title=" ⭐️ Deporte VIP", comba tv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-714t14CvuyX-hhjpy7eq6I4ZFPP3Y_hAQQ&usqp=CAU" group-title=" ⚽ Deporte VIP", comba tv
 https://is.gd/Ibo7DA
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpyEh7hQZO97vy1O7p3aPeO-TYDCN6RHuo1w&usqp=CAU" group-title=" ⭐️ Deporte VIP", surf channels
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpyEh7hQZO97vy1O7p3aPeO-TYDCN6RHuo1w&usqp=CAU" group-title=" ⚽ Deporte VIP", surf channels
 https://i.mjh.nz/SamsungTVPlus/ESBA140000460.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLoc4CwtK2LJAohB9Usrldr2gKIU5gFtMPvQ&usqp=CAU" group-title=" ⭐️ Deporte VIP", motor visión 
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLoc4CwtK2LJAohB9Usrldr2gKIU5gFtMPvQ&usqp=CAU" group-title=" ⚽ Deporte VIP", motor visión 
 https://i.mjh.nz/SamsungTVPlus/ESBD3200001EG.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlHnmfxMRpmu1w62ypWGYwiyRbyg013asijA&usqp=CAU" group-title=" ⭐️ Deporte VIP",fifa +
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlHnmfxMRpmu1w62ypWGYwiyRbyg013asijA&usqp=CAU" group-title=" ⚽ Deporte VIP",fifa +
 https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEwQCGDpywup6nY7W6wZAyuOqE45RA9DSLqA&usqp=CAU"group-title="⭐️ Tv Deporte españa", vix la liga
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEwQCGDpywup6nY7W6wZAyuOqE45RA9DSLqA&usqp=CAU"group-title="⚽ Deportes españa",  vix la liga
 http://173.208.201.234:8080/live/usuariocanales429/4LmtqyFUNJxj/319371.ts?token=TBVQVktfGg9AAAQBXA5dUwQMBwQCAQNQDAALBFQGVwJUAAsEDFMKVlNBHRBLQ0oEVVRvXQIUXFIIAAEDVRsRRURSSmhRUxoPQFIEAAECGk0WTVlZAxRcUA4JCgVQBwQHBRsaR1FTGg9AUAELDg8aTRZcSEADRAgAVWZWURJeUFUVDVZCVFsUFw0NblZdWlkPUBsKFlcUSkNQSkIWXllGXFsbGlVRQ0pUFgYTCBoFCFcBGxwWBVkTD01LSxZeFXt+FRsaUkBDXVsRCl5cGg0aFUcbHBYPRTkTXEpGRgFWXlVFFQIVCBUUFw8CSW1bWFYPUVpEXQlYFUMDGwEWSBVeX1leTFhKaEhcBkELEAsHAVcEG00=
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjsjDmoWWNTubsSkmG8oaImdy3MhknjfgDhw&usqp=CAU"group-title="⭐️ Tv Deporte españa", la liga Movistar 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjsjDmoWWNTubsSkmG8oaImdy3MhknjfgDhw&usqp=CAU"group-title="⚽ Deportes españa",  la liga Movistar 
 http://40041804445165392.ofd0208.xyz:80/play/fe1222416/nb5q3TpUQg/165392.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS05VqMYkUqmJPfaweWnXSlCO0gynDVjquHvQ&usqp=CAU"group-title="⭐️ Tv Deporte españa", la liga bar
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS05VqMYkUqmJPfaweWnXSlCO0gynDVjquHvQ&usqp=CAU"group-title="⚽ Deportes españa",  la liga bar
 http://40041804445268042.ofd0208.xyz:80/play/fe1222416/nb5q3TpUQg/268042.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5xrKy9pzIaMZOfFmtJXOsXgQI9KVAJxS0vQ&usqp=CAU"group-title="⭐️ Tv Deporte españa", la liga de campeones 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5xrKy9pzIaMZOfFmtJXOsXgQI9KVAJxS0vQ&usqp=CAU"group-title="⚽ Deportes españa",  la liga de campeones 
 http://40041804445165358.ofd0208.xyz:80/play/fe1222416/nb5q3TpUQg/165358.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJpIevXtFDFMKFaTZZDK_2mX50mW6JdmVxyQ&usqp=CAU"group-title="⭐️ Tv Deporte españa", vamos 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJpIevXtFDFMKFaTZZDK_2mX50mW6JdmVxyQ&usqp=CAU"group-title="⚽ Deportes españa",  vamos 
 http://50.7.234.234:8000/play/KE3MSK3JBS/c5PHPkxCU97/321072.ts?token=H0EMV0RQRl8UVQtSB1UAAAdXVQhVAVNWUQBeCVpcVgoGAgAFBQhUA1BDFRZAFkBdBw48WFASDVcHBlYPURQXRhcGFmleXEZfFFMJAgFQCxpKQRdYWVUVXgQAVg9aCA0HVVNIFEdRAEcMQwwAAlsQFEQGG0VRQlkFWWgCXRVRVlZGWQpDW1RIR1kPZlBWD1NWAkFZEwUSG0ZcRBYaWVZAXwhPRlReTBYEQgQbDhFSEBREAAxEWkRFHRcNRH0wGhkRARsQU1lLDQpYQwMWRxEQFEQKEG5GVUQQR1IHVQZKFwlGU0YaFVUFHWkCVlpdB1FMDwwNQhYKFVUXG0RVDFZcRwsRO0ZeXEZfFFQNBQJATw==
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="http://descargas.podzone.net/logos/-TENNIS-CHANNEL.png"group-title="⭐️ Tv Deporte españa", TENNIS CHANNEL 
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="http://descargas.podzone.net/logos/-TENNIS-CHANNEL.png"group-title="⚽ Deportes españa",  TENNIS CHANNEL 
 https://i.mjh.nz/SamsungTVPlus/ESBD2600001ME.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkdVu2jtPYYOuh8_wxqfeORrFNafIzgsWSmA&usqp=CAU"group-title="⭐️ Tv Deporte españa", Teledeporte
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkdVu2jtPYYOuh8_wxqfeORrFNafIzgsWSmA&usqp=CAU"group-title="⚽ Deportes españa",  Teledeporte
 https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXa1FdkQBzgOgx_1o5BMm60su9RQ0HkiZ1ag&usqp=CAU " group-title="⭐️ Tv Deporte españa", bein esport ñ
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXa1FdkQBzgOgx_1o5BMm60su9RQ0HkiZ1ag&usqp=CAU " group-title="⚽ Deportes españa",  bein esport ñ
 http://offshore.lat:8080/live/Oscaralma79/SvzsXJWaqCVR/244576.ts
-
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWSQ9I0ATqz6S2S1GRDXIyxVZwZLjU2soxrQ&usqp=CAU" group-title="⚽ Deportes españa",   Eurosport
+https://ultrapremium.cloud:8443/juanmenesestv/6388bz/12358
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIHT6j8BlUcImYS5g9If2Jta4D5LdnppgkBw&usqp=CAU" group-title="⚽ Deportes españa",  La liga Hypermotion
+https://ultrapremium.cloud:8443/juanmenesestv/6388bz/60310
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYINSGioINX6eTaZDkhPca2TDaGBQzBnm6SA&usqp=CAU" group-title="⚽ Deportes españa",  Dazn liga 1
+https://ultrapremium.cloud:8443/juanmenesestv/6388bz/60264
 
 #EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 1 FHD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZ5UTCOeWgHCSzTtzIG74Qrl-0duXJhd0Rg&usqp=CAU" group-title="⭐️ Tv Dazn Eventos",DAZN MOVISTAR 1
 http://novared.pro:8080/motors/checkmotors131021/110232
@@ -418,7 +427,12 @@ http://30644735722321105.ofd0219.xyz:80/play/vi85061/3BBMHG@mxw/321105.ts
 http://30644735722321196.ofd0219.xyz:80/play/vi85061/3BBMHG@mxw/321196.ts
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY6-SjdTN4Fr6s1uagBffsAu62OHl-Vc0c_Q&usqp=CAU" group-title="⭐️ Tv españa",🇪🇦 | la sexta
 http://198.16.106.146:8000/play/vi85061/3BBMHG@mxw/321288.ts?token=H0EMV0RQRl8UWQFSV1dRXlcFU1MBUg5TUAEFAVFbBQoGWwYDAApQVANDFRZAFkBdBw48WFASDVcHBlQAWxQXRhcGFmleXEZfFFMPAQRXBRpKQRdYWVUVXgQAVgBQDwEKV1BIFEdRAEcMQwENBFYQFEQGG0VRQlkFWWgCXRVRVlZGWQpDW1RIR1kPZlBWD1NWAkFZEwUSG0ZcRBYaWVZAXwhPRlReTBYEQgQbDhFSEBREAAxEWkRFHRcNRHYvGhkRARsQU1lLDQpYQwMWRxEQFEQKEG5GVUQQR1IHVQZKFwlGU0YaFVUFHWkCVlpdB1FMDwwNQhYKFVcXG0RVDFZcRwsRO0ZeXEZfFFIBAgpATw==
-
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJidcyTPxxhO58cpLNnt1fAZft4cs-sX2cFw&usqp=CAU " group-title="⭐️ Tv españa",🇪🇦 | canal sur Andalucía
+http://thetrxonlinepow.com:80/live/253pixa/6d7jnTLtvR/201012.ts
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX6ltKAhQfu_3YNerkFU7pNiR22z9ekA7qBQ&usqp=CAU " group-title="⭐️ Tv españa",🇪🇦 | mega
+http://thetrxonlinepow.com:80/live/253pixa/6d7jnTLtvR/136154.ts
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkARsV3mZnQ_uMD1419HpICMQTLEboUXjFJw&usqp=CAU" group-title="⭐️ Tv españa",🇪🇦 | be-mad
+http://thetrxonlinepow.com:80/live/253pixa/6d7jnTLtvR/1430461.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOTn5jykauW0smu6OgpHSvWCpFVT03S2wkbw&usqp=CAU"  group-title="⭐️ Chile",🇨🇱| chilevisión 
 http://novared.pro:8080/motors/checkmotors131021/55273
@@ -515,10 +529,52 @@ https://panel.dattalive.com/6605140/6605140/playlist.m3u8
 http://425239130685776619.ofd0219.xyz:80/play/vi1114605/AxxKePBVqE8/776619.ts
 
 
-#EXTINF:-1 tvg-logo="  https://64.media.tumblr.com/2728681bd1e88d5c0929f5ef466705f1/79df1c24e77176e1-0f/s640x960/ab47fc7b6f552a3dc623cdcc13c38f88ea1be80a.gif" group-title="⭐️ Venezuela",🇻🇪 | esperando link
-https://static.vecteezy.com/system/resources/previews/027/875/539/no-signal-test-tv-tv-no-signal-television-test-of-stripes-signal-tv-pattern-test-or-television-color-bars-signal-end-of-the-tv-colors-bars-for-background-free-video.webm
-#EXTINF:-1 tvg-logo=" https://64.media.tumblr.com/2728681bd1e88d5c0929f5ef466705f1/79df1c24e77176e1-0f/s640x960/ab47fc7b6f552a3dc623cdcc13c38f88ea1be80a.gif " group-title="⭐️ Mexico",🇲🇽 | esperando link
-https://static.vecteezy.com/system/resources/previews/027/875/539/no-signal-test-tv-tv-no-signal-television-test-of-stripes-signal-tv-pattern-test-or-television-color-bars-signal-end-of-the-tv-colors-bars-for-background-free-video.webm
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCoXovdDCS8B7-Z_f37HIlzdR_K_1hmm1ydg&usqp=CAU" group-title="⭐️ Perú",🇵🇪 | atv
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTprfUAqFs9jHI-ksWrdgQa8wK6lP6ri4x0cw&usqp=CAU" group-title="⭐️ Perú",🇵🇪 | autentica televicion
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV2kyIOAZptswA2MbGLJlLPjUSz9YyBqAicA&usqp=CAU" group-title="⭐️ Perú",🇵🇪 | exitosa 
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVnn0OC6zyAM9zqHYTTPHNppJCijc-f80VPw&usqp=CAU" group-title="⭐️ Perú",🇵🇪 | telecolor
+https://live.obslivestream.com/telecolormux/index.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf0IOQP2H2e25NkRaPxMuUlqrt2qyL-qIwDg&usqp=CAU" group-title="⭐️ Perú",🇵🇪 | tvpe internacional
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2sLg0CDUaT0izepqBpvPY4KuI0pf3ok4I-w&usqp=CAU " group-title="⭐️ Perú",🇵🇪 | tv peru
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+
+
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRla_xTmynjPtqy0q36a_GlzU6weJyirsI3xA&usqp=CAU" group-title="⚽ Deportes Perú", contacto deportivo (peru)
+https://live.obslivestream.com/cdeportivo/index.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQc6KYOae8Xzv_kiZa_1WmfGqONQ7fqDxO_A&usqp=CAU " group-title="⚽ Deportes Perú", gol peru (peru)
+https://ultrapremium.cloud:8443/Manuel2023/5ahJ2GFafSJg/307
+
+
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXYlyPSJrzQiDmNHeK306g-gZxRbEyNT6ITw&usqp=CAU " group-title="⭐️ Mexico",🇲🇽 | amx noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa1EQNLmSN2dHT4p1FPbwj3-qbAG2Zu3wnIA&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | azteca internacional
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuYZDuOAV8NqLdpDaYTHHsM79CKaWl-wEeig&usqp=CAU " group-title="⭐️ Mexico",🇲🇽 | canal 10 cancun
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI0z3baHh3rZtm7jsa4rsh6xmykKBQW8I8ZQ&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | canal 26
+https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7PqI86LAZ2p_XL-KISFFpd_rse-RsUv2Mcg&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | canal 5
+https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF3nDQISSJV9qVhZqp2bYWw8AAzXNwgFChdw&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | las estrellas
+https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn_dCICMcNEATq5XOd8pPJAAQxNy0xyofVCw&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | lobo tv
+https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGdi1LeJOBg3M5XTiG-SwoEY00hnDV69dg7Q&usqp=CAU " group-title="⭐️ Mexico",🇲🇽 | multimedios Guadalajara 
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGGroYqk4-3xHCdhWqfqbWUNB7l_jsohCqEw&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | mega noticias
+https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiDVBpIvzILhcoXbDBh7muFT0WYXwmOwIf-g&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | azteca tv
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/26680
+#EXTINF:-1 tvg-logo="  https://pbs.twimg.com/profile_images/1723699899605405696/vBLF6CXR_400x400.jpg" group-title="⭐️ Mexico",🇲🇽 | televisa
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/26984
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfA7_nSmYDK53EmFucuXkg4gMEkaAjIirxuB4eQ_xzW6iYYttIkvVNUQc&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | canal claro
+http://mohdtv.com:8880/voby3089/79527684/58043
+
+
 #EXTINF:-1 tvg-logo="  https://64.media.tumblr.com/2728681bd1e88d5c0929f5ef466705f1/79df1c24e77176e1-0f/s640x960/ab47fc7b6f552a3dc623cdcc13c38f88ea1be80a.gif" group-title="⭐️ Honduras",🇭🇳 | esperando link
 https://static.vecteezy.com/system/resources/previews/027/875/539/no-signal-test-tv-tv-no-signal-television-test-of-stripes-signal-tv-pattern-test-or-television-color-bars-signal-end-of-the-tv-colors-bars-for-background-free-video.webm
 #EXTINF:-1 tvg-logo=" https://64.media.tumblr.com/2728681bd1e88d5c0929f5ef466705f1/79df1c24e77176e1-0f/s640x960/ab47fc7b6f552a3dc623cdcc13c38f88ea1be80a.gif " group-title="⭐️ Ecuador",🇪🇨 |esperando link
