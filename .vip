@@ -232,8 +232,6 @@ http://iptvtree.net:8080/F27279/bdad41ff/38603
 http://190.108.85.20:9999/play/a00x
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC9J3EmSuhDb4xCQOVh64fqUT-fRHCFpUuQQ&usqp=CAU"group-title="⚽ Deportes Mexico",  espn 5 (México)
 http://latinoamericatv.vip:8080/User51xc/4eWATQWYDtpc/339551
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZAZTooZ7FxcyQr_DoYLsEDEsKSeYPwk00Q&usqp=CAU" group-title="⚽ Deportes Mexico",  espn premium (México)
-http://pro.boxdigital.org:8080/889999555/kNXg2rubQceT/181854
  #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCRORK9Plo3gIbcz0C4b5h4FeCJoSUSRk6XQ&usqp=CAU" group-title="⚽ Deportes Mexico", fox sport premiun (mexico)
 http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/252733
 #EXTINF:-1 tvg-id="" tvg-name="AFIZZIONADOS" tvg-logo="http://descargas.podzone.net/logos/-afizzionados.png"  group-title="⚽ Deportes Mexico",  AFIZZIONADOS 
@@ -249,9 +247,11 @@ http://offshore.lat:8080/live/Oscaralma79/SvzsXJWaqCVR/294583.ts
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsl8or_Oto1vobff4XCUBHofL2uDkvpTr9Hw&usqp=CAU " group-title="⚽ Deportes argentina",  direc tv sport 2 (argentina
 http://offshore.lat:8080/live/Oscaralma79/SvzsXJWaqCVR/1243.ts
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQwHeLnMs3YHa5BgBywGnhhZhhK5G1uKPR3w&usqp=CAU" group-title="⚽ Deportes argentina",  espn (argentina)
-http://offshore.lat:8080/live/Oscaralma79/SvzsXJWaqCVR/263376.ts
+http://magmas5.com:8000/rances123/9IFBBCRBIX/151113
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwWIvd6k63Amy4juhuAJvKh7tkX_Ca7apbQ&usqp=CAU " group-title="⚽ Deportes argentina",  espn 2 (argentina)
 http://offshore.lat:8080/live/Oscaralma79/SvzsXJWaqCVR/262403.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZAZTooZ7FxcyQr_DoYLsEDEsKSeYPwk00Q&usqp=CAU" group-title="⚽ Deportes argentina",  espn premium (argentina)
+http://pro.boxdigital.org:8080/889999555/kNXg2rubQceT/181854
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrmhJ54lwP3vGJZjhrpdsfHviOmknw1JMAkQ&usqp=CAU" group-title="⚽ Deportes argentina",  fox sport (argentina)
 http://offshore.lat:8080/live/Oscaralma79/SvzsXJWaqCVR/1234.ts
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiK6YFYatR_bqQWe0x62EewJ2SQsoDYWySbA&usqp=CAU" group-title="⚽ Deportes argentina",  fox sport 2 (argentina)
