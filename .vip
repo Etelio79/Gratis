@@ -124,7 +124,7 @@ http://mohdtv.com:8880/voby3089/79527684/51413
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQMU7s2BFWuCWTz5KquynUbWKVvyt_bkFzMA&usqp=CAU " group-title="⭐️ Cine Premium",CINE| de película clásico 
 http://mohdtv.com:8880/voby3089/79527684/51412
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSi7SbFmeNZkV9LE5RyCfep3lwep5AavQJWw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Warner
-http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
+http://rasaiptv.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/1258
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy9_23qztuHYhlclfjxPGt_SZcu7HDAv0VuQ&usqp=CAU" group-title="⭐️ Cine Premium",CINE| sony movies
 http://168.227.22.18:1935/live/mobile-034/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8g4pgtD9NRV7Q3SMRX1XUcxAkSyd3qR23Mw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Sony Channel
@@ -364,6 +364,8 @@ http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtpOxL3sDX9bz1UKuJUHw5fRrV1GUAVaWXwQ&usqp=CAU" grupo-title="⭐️ Infantiles",INF| Nick Jr   
 http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_LC43NU5iiJWgStdinskdkFSrf4xiVauXQw&usqp=CAU " group-title="⭐️ Infantiles",INF| Disney jr
+http://daleplay.club:8080/live/Miguel0089/654321K/132697.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_kSwUohKjfWcKIR8A6w6dyPUSNWxho93lg&usqp=CAU" group-title="⭐️ Infantiles",INF| ZooMoo
 http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSV-gORxWd-uA5GjuXrUDROMFkyq6jX79hrQ&usqp=CAU" group-title="⭐️ Infantiles",INF| Dreamworks 
@@ -394,6 +396,16 @@ http://novared.pro:8080/motors/checkmotors131021/110290
 https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOOe8d8kaegTjwH1-n0j6j6vIJyFy898cN7g&usqp=CAU " group-title="⭐️ Infantiles",INF| bitme
 http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/53.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiEE_GIePeauzpnxy1hJ7T-Ai6BlKrXX9aeg&usqp=CAU " group-title="⭐️ Zona retro",ZR | mi bella genio
+http://bptv.club:8080/8329c/8329ey/6541
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5WYex-yZug6galWeutldrQp5RHc8CrjWXSQ&usqp=CAU " group-title="⭐️ Zona retro",ZR | el chapulin colorado
+http://bptv.club:8080/8329c/8329ey/12675
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREj7XqsHsYnExljlXU95hE8yw-WgABLR3TCQ&usqp=CAU" group-title="⭐️ Zona retro",ZR | el principe del rap
+http://bptv.club:8080/8329c/8329ey/390
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbdgUN4PDiyYQHmjO7fty393lzhr_cOQqISg&usqp=CAU" group-title="⭐️ Zona retro",ZR | star war
+http://bptv.club:8080/8329c/8329ey/6570
 
 
 #EXTINF:-1 tvg-logo="  " group-title="✅ 24/7 INFANTILES",24/7 | dragon ball z
@@ -570,6 +582,14 @@ http://425239130685776619.ofd0219.xyz:80/play/vi1114605/AxxKePBVqE8/776619.ts
 http://mohdtv.com:8880/voby3089/79527684/49723
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh8H-mu9a_WbdhyVIFxBS-MBNu6FpwUod4zg&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| telefe
 http://mohdtv.com:8880/voby3089/79527684/49676
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_hwKd5vGQll5MIMTXROhqRJsQvzbqIW9C1w&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| gran hermano 24/horas
+http://daleplay.club:8080/live/2nf9u5881nk/jXPaVGrrX2BG/339638.ts
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_hwKd5vGQll5MIMTXROhqRJsQvzbqIW9C1w&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| cam 1
+http://daleplay.club:8080/live/2nf9u5881nk/jXPaVGrrX2BG/339639.ts
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_hwKd5vGQll5MIMTXROhqRJsQvzbqIW9C1w&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| cam 2
+http://daleplay.club:8080/live/2nf9u5881nk/jXPaVGrrX2BG/339640.ts
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_hwKd5vGQll5MIMTXROhqRJsQvzbqIW9C1w&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| cam 3
+http://daleplay.club:8080/live/2nf9u5881nk/jXPaVGrrX2BG/339641.ts
 
 
 #EXTINF:-1 tvg-logo=" https://elcomercio.pe/resizer/1clW5nGT2BstBSvCMMbp1sT9_yA=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/J4JV4BI37REKFM346TOV3PD33E.gif " group-title="⭐️ Perú",🇵🇪 🇵🇪 🇵🇪
