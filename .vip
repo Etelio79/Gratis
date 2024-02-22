@@ -143,7 +143,8 @@ http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO5pW3OIoS49XWgb_qI7rCgZPE45J9LTPsJQ&usqp=CAU" group-title="⭐️ Cine Premium",CINE| universal cinema
 http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/1464
-
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEYgyPNFBP6tBSzCBbKBl-OmpK3cjpoMRi-w&usqp=CAU " group-title="⭐️ Cine Premium",CINE| Universal Crime
+http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/278168.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRpjjaC7-sYZqOmgS4FTrUbwvHvSMi_7I2iQ&usqp=CAU" group-title="⭐️ Extrema tv", EXT |movie entretaiment
 https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1547890901.m3u8
@@ -651,7 +652,7 @@ https://play.cdn.enetres.net/B9E570CFE54949C7ABB985D4F8F77F7F021/02267/playlist.
 http://cncmedellin.ddns.net:1935/canalcnc/canalcnc_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4FVLQbPaH7jbIB-Tk5KB4ozA_0wce_P83A&usqp=CAU " group-title="⭐️ Colombia",🇨🇴 | ctv
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw9WNF1CHzKiIHAs4YFVZBEqpD44Rg1vitJg&usqp=CAU  " group-title="⭐️ Colombia",🇨🇴 | eureka
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYr0qrPTzF8a63ke9_yS-CyEjIka-vn6I4AQ&usqp=CAU  " group-title="⭐️ Colombia",🇨🇴 | eureka
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgcNrMpZ4rXYRUVerRYnZnN9vmPpEZr9XL0g&usqp=CAU  " group-title="⭐️ Colombia",🇨🇴 | frecuencia f
 https://tv.frecuenciaf.com/live/envivo.m3u8
