@@ -269,7 +269,7 @@ http://pro.boxdigital.org:8080/889999555/kNXg2rubQceT/181854
 http://mohdtv.com:8880/voby3089/79527684/49714
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiK6YFYatR_bqQWe0x62EewJ2SQsoDYWySbA&usqp=CAU" group-title="⚽ Deportes argentina",  fox sport 2 (argentina)
 http://mohdtv.com:8880/voby3089/79527684/49713
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBylUqLV69dmzDCpR1JYi3ePnoZpF2fpBvTw&usqp=CAU"  group-title="⚽ Deportes argentina",  TyC SPORTS (argentina)
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images? q=tbn:ANd9GcSBylUqLV69dmzDCpR1JYi3ePnoZpF2fpBvTw&usqp=CAU"  group-title="⚽ Deportes argentina",  TyC SPORTS (argentina)
 http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdJC5xBIRwcpgZS-cpdXcVTOowFGDSqhxzrw&usqp=CAU" group-title="⚽ Deportes argentina", TyC sports play (argentina)
 https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
