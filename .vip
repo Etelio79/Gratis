@@ -255,6 +255,8 @@ https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TUDN SPORTS" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png"  group-title="⚽ Deportes Mexico",  TUDN usa
 http://tvmate.icu:8080/Alan/Alan1234/82241
+ #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE3QCqwL3NqdH4VWjH3mAHmgx2sga5oC8NhQ&usqp=CAU" group-title="⚽ Deportes Mexico", liga de expansión
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/369500
 
 
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBQCNx8Mcyjs2Nrmc5JChTfbGNcnV7hiyFjQ&usqp=CAU" group-title="⚽ Deportes argentina",  direc tv sports (argentina)
@@ -650,6 +652,12 @@ http://mohdtv.com:8880/voby3089/79527684/51399
 http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/153547
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9wZW3RX-NHmIK5dmfJNFS-y0UNdKwayNXQQ&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | azteca uno
 http://mohdtv.com:8880/voby3089/79527684/51444
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsZEUt30oe6riZxBccEel431EDM7I6cyT5rg&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | az click
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/26955
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaLUeAxJ9MfhCVHztoN1dS2iivTkIXuRWmZA&usqp=CAU " group-title="⭐️ Mexico",🇲🇽 | az mundo
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/26982
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMSu1wVKQNrU1je2cohKmrMbw1PLezM2kMfw&usqp=CAU " group-title="⭐️ Mexico",🇲🇽 | azteca 7
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/180063
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9d/15/90/9d15907c82217f409fde67ec13155d45.gif " group-title="⭐️ Colombia",🇨🇴 🇨🇴 🇨🇴
@@ -730,7 +738,7 @@ https://ultrapremium.cloud:8443/Manuel2023/5ahJ2GFafSJg/23171
 
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs0Y2Gt7OTSYPVkgll_ZxNtfxLqTqZdybWdg&usqp=CAU" group-title="⭐️Estrenos 2024", Aquaman 2
 http://monudo.com:6954/movie/Juan rumano/sA8jX3TtzV/61283.mkv
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9XxohZFBaLuHugzbQPef4XFNGD9_HJ15OsA&usqp=CAU " group-title="⭐️Estrenos 2024", Vida perra
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtIEiwipAEa5Dc5QUD8ZzKHuuXuGbKHLHSCw&usqp=CAU" group-title="⭐️Estrenos 2024", Vida perra
 http://monudo.com:6954/movie/Juan rumano/sA8jX3TtzV/61303.mp4
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv_vlBXt9QgDMm7DT2QrrYkHuc59aqIBQEPg&usqp=CAU" group-title="⭐️Estrenos 2024", Mercenarios 4
 http://monudo.com:6954/movie/Juan rumano/sA8jX3TtzV/61279.mkv
