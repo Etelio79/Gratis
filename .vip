@@ -295,6 +295,8 @@ http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
 https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb9sBHdPRPy7apvoQnSxPnR6bO5nGpN3CXZw&usqp=CAU" group-title="⚽ Deportes argentina", TyC sports play 2 (argentina)
 https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkv6YzGZ3A89boIHG3IVM9Ur1SZNv29ieZQw&usqp=CAU " group-title="⚽ Deportes argentina", tyc sports play 3 (argentina)
+https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8
  #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk56fDBqBbFatAYrQLG9XNQXSdSehcqUpndg&usqp=CAU" group-title="⚽ Deportes argentina",   TNT Sports (argentina)
 https://premierchile.shop:8443/23yaHFPEWwrq/UT9Bnd6aMF/459
 
@@ -424,6 +426,17 @@ http://bptv.club:8080/8329c/8329ey/12675
 http://bptv.club:8080/8329c/8329ey/390
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbdgUN4PDiyYQHmjO7fty393lzhr_cOQqISg&usqp=CAU" group-title="⭐️ Zona retro",ZR | star war
 http://bptv.club:8080/8329c/8329ey/6570
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUZAgQMCJmtbRdFRnb_DBf9pyjroQeLyGYOg&usqp=CAU" group-title="⭐️ Zona retro",ZR | bonanza
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/37820
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMbtHB3wShw-DcrkyJ9QdFzd0u48da5gPZLw&usqp=CAU" group-title="⭐️ Zona retro",ZR | bruce lee
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/37763
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8nwWCqP0o9xCgkOzuoZQz5Yq0b0hEevUm-g&usqp=CAU" group-title="⭐️ Zona retro",ZR | el auto fantástico
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/37806
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnbL0opvBQSE6WmQxof0lQvK13Bs2pgdNe5w&usqp=CAU" group-title="⭐️ Zona retro",ZR | el chavo del 8
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/37746
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYwykIRBzo2uwAo0YFG90rGGI5PsMQ9ZtaPQ&usqp=CAU" group-title="⭐️ Zona retro",ZR | echizada
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/37803
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUAhS7G7bXTIPIakUsW8kqoqxuOCsQVNWp7A&usqp=CAU  " group-title="✅ 24/7 VIP",ppv | netflix cine 01
