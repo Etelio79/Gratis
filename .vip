@@ -23,6 +23,8 @@ https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-097/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4v0fm49xRwjdgUlxKwjvFsCC-o2jgHOPEng&usqp=CAU  " group-title="⭐️ Telenovelas",TlN | tnt novelas
 http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/1499
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqKlEo7N1Zb1T_o2wMGKMVDg1kKOfzexbMRQ&usqp=CAU " group-title="⭐️ Telenovelas",TlN | unicable novelas
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/1283
 
 
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwKhO6kqI7vJBtf9vl1wsCn9pNe-CQxqCoLA&usqp=CAU" group-title="⭐️ Musica",MUS| vallenatos internacional 
@@ -311,6 +313,10 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 http://tvmate.icu:8080/Alan/Alan1234/82241
  #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE3QCqwL3NqdH4VWjH3mAHmgx2sga5oC8NhQ&usqp=CAU" group-title="⚽ Deportes Mexico", liga de expansión
 http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/369500
+ #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1dBIigdVLzlfRRAIBISkf7k0k4E_3KvU_bw&usqp=CAU" group-title="⚽ Deportes Mexico", deportes ufc 
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/8918
+ #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYeH1O0-I8awsQ6qP8clD2dtS2RIjNbkRGsQ&usqp=CAU" group-title="⚽ Deportes Mexico", deportes wwe
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/153466
 
 
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBQCNx8Mcyjs2Nrmc5JChTfbGNcnV7hiyFjQ&usqp=CAU" group-title="⚽ Deportes argentina",  direc tv sports (argentina)
