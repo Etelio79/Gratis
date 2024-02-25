@@ -752,6 +752,12 @@ https://live.obslivestream.com/telecolormux/index.m3u8
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2sLg0CDUaT0izepqBpvPY4KuI0pf3ok4I-w&usqp=CAU " group-title="⭐️ Perú",🇵🇪 | tv peru
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK3nAWqeOVMa6wd7hw4l5SU4hydCAQ192GaA&usqp=CAU " group-title="⭐️ Perú",🇵🇪 | AMERICA
+http://tv.proyectox.vip:8080/live/ossi2022/RNe48QBDyX/153834.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZXlNu7-UiZBx3vBJtQoConFA78beHRrDLPEUep-n-khJvS6ogGCcK_qo&usqp=CAU" group-title="⭐️ Perú",🇵🇪 | FRECUENCIA 
+http://tv.proyectox.vip:8080/live/ossi2022/RNe48QBDyX/22165.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScWWlP6NBMwv-J5QSQSOsxpRx61QCMNVLHLNbsUVsoGKL7fPkgbS63Np8&usqp=CAU  " group-title="⭐️ Perú",🇵🇪 | PANAMERICANA
+http://tv.proyectox.vip:8080/live/ossi2022/RNe48QBDyX/153840.m3u8
 
 
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRla_xTmynjPtqy0q36a_GlzU6weJyirsI3xA&usqp=CAU" group-title="⚽ Deportes Perú", contacto deportivo (peru)
