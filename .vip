@@ -35,8 +35,6 @@ https://59a564764e2b6.streamlock.net:443/vallenato/Vallenato2/chunklist_w1564300
 https://tgn.bozztv.com/ssh101/ssh101/qMUAZEy/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e1d35c895ad041e28f8691f6a9e392e2.webp" group-title="⭐️ Musica",MUS| v classic tv tropical
 https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w450170138.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/74a76057b28ccd9c9d48045b64825ff9.webp" group-title="⭐️ Musica",MUS| trace urban
-https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7IkVuAwbKlLEem88K-i4jTavHa_a2YspH6Q&usqp=CAU " group-title="⭐️ Musica",MUS| urbano tv
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGAyOOlL4MYtoCk0QbHu3ykYuhK7S96BcCg&usqp=CAU " group-title="⭐️ Musica",MUS| urbano dj
@@ -53,8 +51,6 @@ https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
 https://isaocorp.cloudecast.com:443/toptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmuBHcuzCWNPHxoPdvqWWvCrZ_kwONpnftTw&usqp=CAU"  group-title="⭐️ Musica",MUS| rock tv
 https://tv.broadcasting.ro:443/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe8Mxq-x3kFdPVwHqJQIWOmK6RN0gcFd4mkYtvgXpyXsaL42PdYXTcxWw&usqp=CAU"  group-title="⭐️ Musica",MUS| canela tv
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNgJ3XaFPEdaFdfgGg__5QZ5AQWAsihvflkg&usqp=CAU" group-title="⭐️ Musica",MUS| retroplus
 https://video06.logicahost.com.br:443/retroplustv/retroplustv/chunklist_w1312097457.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgDJWvs4ZdfN1nKmnKuFU9eMrnqnGEkMz6kQ&usqp=CAU" group-title="⭐️ Musica",MUS| amordiscos 
@@ -292,11 +288,14 @@ https://ov.ottera.tv/channels/cnm_ctm_ro/master.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0djIrHxzJQPYRHzandvR_VsfbaLk_F3zR6Q&usqp=CAU" group-title="⭐️ Canela tv",CAN | trace tv
 https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0djIrHxzJQPYRHzandvR_VsfbaLk_F3zR6Q&usqp=CAU" group-title="⭐️ Canela tv",CAN | trace urban
+https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
  #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0djIrHxzJQPYRHzandvR_VsfbaLk_F3zR6Q&usqp=CAU" group-title="⭐️ Canela tv",CAN | tv hits
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058 
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0djIrHxzJQPYRHzandvR_VsfbaLk_F3zR6Q&usqp=CAU" group-title="⭐️ Canela tv",CAN | comedias
 https://d05f9c4e535042b78e6de94ef5548e4a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-2/playlist.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0djIrHxzJQPYRHzandvR_VsfbaLk_F3zR6Q&usqp=CAU" group-title="⭐️ Canela tv",CAN | cinema HD
+#EXTINF:-1 tvg-logo="  https://egroup-title="⭐️ Canela tv",CAN | clic
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398ncrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0djIrHxzJQPYRHzandvR_VsfbaLk_F3zR6Q&usqp=CAU" group-title="⭐️ Canela tv",CAN | cinema HD
 https://ov.ottera.tv/channels/cnm_cn_mv/master.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0djIrHxzJQPYRHzandvR_VsfbaLk_F3zR6Q&usqp=CAU" group-title="⭐️ Canela tv",CAN | cine real
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
@@ -308,6 +307,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0djIrHxzJQPYRHzandvR_VsfbaLk_F3zR6Q&usqp=CAU" group-title="⭐️ Canela tv",CAN | clic
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0djIrHxzJQPYRHzandvR_VsfbaLk_F3zR6Q&usqp=CAU" group-title="⭐️ Canela tv",CAN | cgtn en español
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORT " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="⚽ Deporte Colombia",COL |  WIN SPORTS
@@ -436,17 +438,6 @@ https://ultrapremium.cloud:8443/juanmenesestv/6388bz/12358
 https://ultrapremium.cloud:8443/juanmenesestv/6388bz/60310
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYINSGioINX6eTaZDkhPca2TDaGBQzBnm6SA&usqp=CAU" group-title="⚽ Deportes españa",  Dazn liga 1
 http://haksba3.ovh:37500/malki1/malki/116341
-
-#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 1 FHD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZ5UTCOeWgHCSzTtzIG74Qrl-0duXJhd0Rg&usqp=CAU" group-title="⭐️ Tv Dazn Eventos",DAZN MOVISTAR 1
-http://novared.pro:8080/motors/checkmotors131021/110232
-#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 1 FHD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6s1BLWLYnoUikuNzPhbykMsM3PUsvIQyFLQ&usqp=CAU" group-title="⭐️ Tv Dazn Eventos",DAZN MOVISTAR 2
-http://iptvtree.net:8080/F27279/bdad41ff/64712
-#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 1 FHD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw0Q5HnlJ3eFkY1KKrgon15sJooJ_0CThmqg&usqp=CAU" group-title="⭐️ Tv Dazn Eventos",DAZN MOVISTAR 3
-http://iptvtree.net:8080/F27279/bdad41ff/269912
-#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 1 FHD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1r0GoAXkFdpOepIYHWjyZ3NZtL2tj0HZQMQ&usqp=CAU" group-title="⭐️ Tv Dazn Eventos",DAZN MOVISTAR 4
-http://iptvtree.net:8080/F27279/bdad41ff/269911
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHZQBss3Wx6ilhokjaE_UuNhLotB8PsgV3Q&usqp=CAU" group-title="⭐️ Tv Dazn Eventos",DAZN MOVISTAR F1 
-http://iptvtree.net:8080/F27279/bdad41ff/1672
 
 
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBBIJpNHUw9NN6n5vkhITs1mMV2gqkSY7JKw&usqp=CAU " group-title="⭐️ Infantiles",INF| cartoon network
