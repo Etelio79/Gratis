@@ -25,6 +25,8 @@ http://168.227.22.18:1935/live/mobile-097/playlist.m3u8
 http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/1499
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtio0kmwXs6X3BSEk78D0q6tN6ZeS3rOOYpg&usqp=CAU" group-title="⭐️ Telenovelas",TlN | novelas turcas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh94jktIUunqTYghwi3dnZNfrb_cp--66-TQ&usqp=CAU " group-title="⭐️ Telenovelas",TlN | telemundo novelas clásicas 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqKlEo7N1Zb1T_o2wMGKMVDg1kKOfzexbMRQ&usqp=CAU " group-title="⭐️ Telenovelas",TlN | unicable novelas
 http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/1283
 
