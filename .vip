@@ -23,6 +23,8 @@ https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-097/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4v0fm49xRwjdgUlxKwjvFsCC-o2jgHOPEng&usqp=CAU  " group-title="⭐️ Telenovelas",TlN | tnt novelas
 http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/1499
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtio0kmwXs6X3BSEk78D0q6tN6ZeS3rOOYpg&usqp=CAU" group-title="⭐️ Telenovelas",TlN | novelas turcas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqKlEo7N1Zb1T_o2wMGKMVDg1kKOfzexbMRQ&usqp=CAU " group-title="⭐️ Telenovelas",TlN | unicable novelas
 http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/1283
 
@@ -279,6 +281,33 @@ http://168.227.22.18:1935/live/mobile-141/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE - MORBID TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTix81gxQ2PBOVRp2YRCMfcjGZM0UZdplf48A&usqp=CAU" group-title="⭐️ Entretenimiento",ENT |seo tv
 https://seo.tv.bo/tv/SEO1.m3u8
 
+
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0djIrHxzJQPYRHzandvR_VsfbaLk_F3zR6Q&usqp=CAU" group-title="⭐️ Canela tv",CAN | cinekids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0djIrHxzJQPYRHzandvR_VsfbaLk_F3zR6Q&usqp=CAU" group-title="⭐️ Canela tv",CAN | freetv accion
+https://topcinelatam-freetv.amagi.tv/TopCineLATAMx/master.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0djIrHxzJQPYRHzandvR_VsfbaLk_F3zR6Q&usqp=CAU" group-title="⭐️ Canela tv",CAN | tv 2
+https://ov.ottera.tv/channels/cnm_ctm_ro/master.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0djIrHxzJQPYRHzandvR_VsfbaLk_F3zR6Q&usqp=CAU" group-title="⭐️ Canela tv",CAN | musica
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0djIrHxzJQPYRHzandvR_VsfbaLk_F3zR6Q&usqp=CAU" group-title="⭐️ Canela tv",CAN | trace tv
+https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
+ #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0djIrHxzJQPYRHzandvR_VsfbaLk_F3zR6Q&usqp=CAU" group-title="⭐️ Canela tv",CAN | tv hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058 
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0djIrHxzJQPYRHzandvR_VsfbaLk_F3zR6Q&usqp=CAU" group-title="⭐️ Canela tv",CAN | comedias
+https://d05f9c4e535042b78e6de94ef5548e4a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0djIrHxzJQPYRHzandvR_VsfbaLk_F3zR6Q&usqp=CAU" group-title="⭐️ Canela tv",CAN | cinema HD
+https://ov.ottera.tv/channels/cnm_cn_mv/master.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0djIrHxzJQPYRHzandvR_VsfbaLk_F3zR6Q&usqp=CAU" group-title="⭐️ Canela tv",CAN | cine real
+https://cinereal-plex.amagi.tv/CineReal/master.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0djIrHxzJQPYRHzandvR_VsfbaLk_F3zR6Q&usqp=CAU" group-title="⭐️ Canela tv",CAN | clasicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0djIrHxzJQPYRHzandvR_VsfbaLk_F3zR6Q&usqp=CAU" group-title="⭐️ Canela tv",CAN | zona de acción kids 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0djIrHxzJQPYRHzandvR_VsfbaLk_F3zR6Q&usqp=CAU" group-title="⭐️ Canela tv",CAN | nature time
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0djIrHxzJQPYRHzandvR_VsfbaLk_F3zR6Q&usqp=CAU" group-title="⭐️ Canela tv",CAN | clic
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398
 
 
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORT " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="⚽ Deporte Colombia",COL |  WIN SPORTS
@@ -849,15 +878,6 @@ https://ultrapremium.cloud:8443/Manuel2023/5ahJ2GFafSJg/23173
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTKSkjSCk02TtxDOGQEOD8mKZJo9Sqy_uHaw&usqp=CAU " group-title="⭐️ Venezuela",🇻🇪 | tele Aragua
 https://ultrapremium.cloud:8443/Manuel2023/5ahJ2GFafSJg/23171
 
-
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs0Y2Gt7OTSYPVkgll_ZxNtfxLqTqZdybWdg&usqp=CAU" group-title="⭐️Estrenos 2024", Aquaman 2
-http://monudo.com:6954/movie/Juan rumano/sA8jX3TtzV/61283.mkv
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtIEiwipAEa5Dc5QUD8ZzKHuuXuGbKHLHSCw&usqp=CAU" group-title="⭐️Estrenos 2024", Vida perra
-http://monudo.com:6954/movie/Juan rumano/sA8jX3TtzV/61303.mp4
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv_vlBXt9QgDMm7DT2QrrYkHuc59aqIBQEPg&usqp=CAU" group-title="⭐️Estrenos 2024", Mercenarios 4
-http://monudo.com:6954/movie/Juan rumano/sA8jX3TtzV/61279.mkv
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpZDDS0x3qNZCjzieCVFiaZx6Aidj2jCgVLw&usqp=CAU " group-title="⭐️Estrenos 2024", Wonka
-http://monudo.com:6954/movie/Juan rumano/sA8jX3TtzV/61278.mkv
 
 
 
