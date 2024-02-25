@@ -686,6 +686,16 @@ https://tigocloudtf.desdeparaguay.net:443/latele/latele_py_baja/chunklist_w27302
 abctvhttps://abc-color.cdn.vustreams.com:443/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZxHbqDKHYnUvCeK9vxaKh2cqKI8IdDM_i0A&usqp=CAU " group-title="⭐️ Paraguay",🇵🇾 | unicanal
 https://tigocloudgen.desdeparaguay.net:443/unicanal/unicanal_baja/chunklist_w1982892831.m3u8?k=7c566bd2dd2df43ebe3b0f0fae46fc0599d386da6ecf784c1c4f38c9e5b42fa8&exp=1708358618 
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3KubGiJ4DzJWVU0OW22jt5kzGN7vF4Z5OWA&usqp=CAU" group-title="⭐️ Paraguay",🇵🇾 | somos del este
+https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5wNRgQb0VwjKrLRYyQ286a1pz8FfW3lH5zQ&usqp=CAU" group-title="⭐️ Paraguay",🇵🇾 | gen
+http://rasaiptv.com:8080/live/pollitoconpapas24/srhVaNQCwZpK/154295.ts
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtShvCWScQnUkKpqwd_rb76YGLjiT_HiFtvw&usqp=CAU" group-title="⭐️ Paraguay",🇵🇾 | telefuturo
+http://rasaiptv.com:8080/live/pollitoconpapas24/srhVaNQCwZpK/154285.ts
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJKOjdGejo_hEjrLGiNXcgE2VpJXUc2okqwg&usqp=CAU" group-title="⭐️ Paraguay",🇵🇾 | uniradio tv
+https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrxoTi0VIuNs9_a7VtpbZhY_NOcp0Ci11-sw&usqp=CAU  " group-title="⭐️ Paraguay",🇵🇾 | snt
+https://deh05ueq91v6s.cloudfront.net/SNTPY/0bd4cfaf086c4ac0ce0101172a42ba20.sdp/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="⭐️ Usa Latinos", TELEMUNDO 
