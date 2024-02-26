@@ -412,12 +412,10 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 https://xdigital.stream:8443/Alejandro1328/Valeria2911/94432
 #EXTINF:-1 tvg-logo="https://media0.giphy.com/media/wOi3Mu6YjsoGhC4oHT/giphy.gif " group-title=" ⚽ Deporte VIP", tigo sports 2 solo eventos(Paraguay)
 https://xdigital.stream:8443/Alejandro1328/Valeria2911/94433
- #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVur1qXyZFVQP4Eb2RHrayMzfY4FWazbhb8A&usqp=CAU" group-title=" ⭐️ Deporte VIP",  manchester united tv 
+ #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVur1qXyZFVQP4Eb2RHrayMzfY4FWazbhb8A&usqp=CAU" group-title=" ⚽ Deporte VIP",  manchester united tv 
 http://rasaiptv.com:8080/pollitoconpapas24/srhVaNQCwZpK/134300
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="http://descargas.podzone.net/logos/-FUTV.png" group-title=" ⚽ Deporte VIP",FUTV 
 http://novared.pro:8080/motors/checkmotors131021/218668
- #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlCyIYFJQi1-EeHcQXZmpFvu7RiYHCgGgEDw&usqp=CAU" group-title=" ⚽ Deporte VIP", cctv5
-https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSqKYy7HzUuURKwJTI8xseeGmhc1ezqycO_w&usqp=CAU" group-title=" ⚽ Deporte VIP",  sky sport
 http://181.78.105.146:2000/play/a08m/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfMIHswoOhinYl2_AVkIrLMyXQhpz_NodzLw&usqp=CAU" group-title=" ⚽ Deporte VIP", bein sport latino
@@ -785,11 +783,11 @@ https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2sLg0CDUaT0izepqBpvPY4KuI0pf3ok4I-w&usqp=CAU " group-title="⭐️ Perú",🇵🇪 | tv peru
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK3nAWqeOVMa6wd7hw4l5SU4hydCAQ192GaA&usqp=CAU " group-title="⭐️ Perú",🇵🇪 | AMERICA
-http://tv.proyectox.vip:8080/live/ossi2022/RNe48QBDyX/153834.m3u8
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/5275
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZXlNu7-UiZBx3vBJtQoConFA78beHRrDLPEUep-n-khJvS6ogGCcK_qo&usqp=CAU" group-title="⭐️ Perú",🇵🇪 | FRECUENCIA 
-http://tv.proyectox.vip:8080/live/ossi2022/RNe48QBDyX/22165.m3u8
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22165
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScWWlP6NBMwv-J5QSQSOsxpRx61QCMNVLHLNbsUVsoGKL7fPkgbS63Np8&usqp=CAU  " group-title="⭐️ Perú",🇵🇪 | PANAMERICANA
-http://tv.proyectox.vip:8080/live/ossi2022/RNe48QBDyX/153840.m3u8
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/107207
 
 
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRla_xTmynjPtqy0q36a_GlzU6weJyirsI3xA&usqp=CAU" group-title="⚽ Deportes Perú", contacto deportivo (peru)
