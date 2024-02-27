@@ -390,8 +390,6 @@ http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
 https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb9sBHdPRPy7apvoQnSxPnR6bO5nGpN3CXZw&usqp=CAU" group-title="⚽ Deportes argentina", TyC sports play 2 (argentina)
 https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkv6YzGZ3A89boIHG3IVM9Ur1SZNv29ieZQw&usqp=CAU " group-title="⚽ Deportes argentina", tyc sports play 3 (argentina)
-https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8
  #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk56fDBqBbFatAYrQLG9XNQXSdSehcqUpndg&usqp=CAU" group-title="⚽ Deportes argentina",   TNT Sports (argentina)
 https://premierchile.shop:8443/23yaHFPEWwrq/UT9Bnd6aMF/459
 
@@ -945,7 +943,7 @@ https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/in
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHuvSfuYHFtW1SvfV0nqOYiPWGhX0sN66-WA&usqp=CAU" group-title="⭐️ Colombia",🇨🇴 | telepacifico
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSykw7AGd4MLbvcXZiXzMB8JIfcbqyCAsyleQ&usqp=CAU" group-title="⭐️ Colombia",🇨🇴 |canal 1
-http://rasaiptv.com:8080/c737nweve73GF6/wRt6pgzvmz875fD/69248
+http://daleplay.club:8080/2nf9u5881nk/jXPaVGrrX2BG/69248
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Q7gR_Ps4qNRPVElNTrJzlhrekg3xE15r2w&usqp=CAU" group-title="⭐️ Colombia",🇨🇴 |city tv
 https://ultrapremium.cloud:8443/49ruqe45zu42su67/m59me2me37m/337
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5S_-1FaUuakLw-cu_6PhskTQn-BSteFUtQw&usqp=CAU " group-title="⭐️ Colombia",🇨🇴 |mas tv
