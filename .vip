@@ -103,6 +103,10 @@ http://tvbross.com:8090/comandoalmache/almache2022../421
 http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/139.m3u8
 #EXTINF:-1 tvg-id="HBOSIG" tvg-name="P | Firma HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO-signature.png" grupo-title="⭐️ Cine Premium",CINE| HBO signature
 http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/136.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgN957TtfAEFVRBupvrBCK-zzbGAehvfbS687ItimgUv_O24jV12PrwHs&usqp=CAU " group-title="⭐️ Cine Premium",CINE| usa network 
+http://167.114.156.136:25461/INFINITV/ZX89NM22/80
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqagZsvbvuG92jPYcyIqpeCMRcbRpZwTNfkw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| starz
+http://167.114.156.136:25461/INFINITV/ZX89NM22/190
 #EXTINF:-1 tvg-id="fx.mx" tvg-name="2MB | FX LQ" tvg-logo="http://descargas.podzone.net/logos/-FX.png" group-title="⭐️ Cine Premium",CINE| FX
 http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhb9ga1hqM2ZIJJuzseaF0qXu7hiOLof47Pw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Space
