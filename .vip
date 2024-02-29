@@ -352,6 +352,31 @@ http://tvbross.com:8090/comandoalmache/almache2022../106
 http://tvbross.com:8090/comandoalmache/almache2022../17255
 
 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZ5UTCOeWgHCSzTtzIG74Qrl-0duXJhd0Rg&usqp=CAU" group-title="⚽ Dazn Eventos ⚽", DAZN MOVISTAR 1
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2144853.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6s1BLWLYnoUikuNzPhbykMsM3PUsvIQyFLQ&usqp=CAU" group-title="⚽ Dazn Eventos ⚽", DAZN MOVISTAR 2
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2144856.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw0Q5HnlJ3eFkY1KKrgon15sJooJ_0CThmqg&usqp=CAU" group-title="⚽ Dazn Eventos ⚽", DAZN MOVISTAR 3
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2144859.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1r0GoAXkFdpOepIYHWjyZ3NZtL2tj0HZQMQ&usqp=CAU" group-title="⚽ Dazn Eventos ⚽", DAZN MOVISTAR 4
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2144862.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHZQBss3Wx6ilhokjaE_UuNhLotB8PsgV3Q&usqp=CAU" group-title="⚽ Dazn Eventos ⚽", DAZN MOVISTAR F1 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2144850.ts
+
+
+http://tvbross.com:8090/comandoalmache/almache2022../100
+ #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ZbmP6IM57zdgM1ghV8YY6HucsH5HEqKd7w&usqp=CAU " group-title=" ⚽ tigo sports ⚽", tigo sport (guatemala)
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ZbmP6IM57zdgM1ghV8YY6HucsH5HEqKd7w&usqp=CAU " group-title=" ⚽ tigo sports ⚽", tigo sport (paraguay)
+https://xdigital.stream:8443/Alejandro1328/Valeria2911/94432
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ZbmP6IM57zdgM1ghV8YY6HucsH5HEqKd7w&usqp=CAU " group-title=" ⚽ tigo sports ⚽", tigo sports 2 solo eventos(Paraguay)
+https://xdigital.stream:8443/Alejandro1328/Valeria2911/94433
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ZbmP6IM57zdgM1ghV8YY6HucsH5HEqKd7w&usqp=CAU " group-title=" ⚽ tigo sports ⚽", tigo sports (bolibia)
+http://wtsplaylist.site:8080/live/bernardosalazar/jn8mFJjvsThQ/54114.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ZbmP6IM57zdgM1ghV8YY6HucsH5HEqKd7w&usqp=CAU " group-title=" ⚽ tigo sports ⚽", tigo sports 2 (bolivia)
+http://wtsplaylist.site:8080/live/bernardosalazar/jn8mFJjvsThQ/54117.ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOzUbC3TwMglW0YBja9vOPLa9HhrJo4pBTAw&usqp=CAU" group-title="⚽ Deportes Mexico",  FOX SPORTS  1 (México)
 http://168.227.22.18:1935/live/mobile-104/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZhooTjS95cU_5z6UWVIJh-0DBHy-aA7RIoQ&usqp=CAU" group-title="⚽ Deportes Mexico",  FOX SPORTS 2 (México)
@@ -421,13 +446,6 @@ http://novared.pro:8080/motors/checkmotors131021/218708
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ5DCwqwumvaddhj_uHZb6WC07NYqPodspRQ&usqp=CAU" group-title=" ⚽ Deporte VIP",td + 2 
 http://novared.pro:8080/motors/checkmotors131021/218729
 #EXTINF:-1 tvg-logo="https://media0.giphy.com/media/wOi3Mu6YjsoGhC4oHT/giphy.gif" group-title=" ⚽ Deporte VIP",tigo sports (costa rica)
-http://tvbross.com:8090/comandoalmache/almache2022../100
- #EXTINF:-1 tvg-logo="https://media0.giphy.com/media/wOi3Mu6YjsoGhC4oHT/giphy.gif " group-title=" ⚽ Deporte VIP", tigo sport (guatemala)
-https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media0.giphy.com/media/wOi3Mu6YjsoGhC4oHT/giphy.gif " group-title=" ⚽ Deporte VIP", tigo sport (paraguay)
-https://xdigital.stream:8443/Alejandro1328/Valeria2911/94432
-#EXTINF:-1 tvg-logo="https://media0.giphy.com/media/wOi3Mu6YjsoGhC4oHT/giphy.gif " group-title=" ⚽ Deporte VIP", tigo sports 2 solo eventos(Paraguay)
-https://xdigital.stream:8443/Alejandro1328/Valeria2911/94433
  #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVur1qXyZFVQP4Eb2RHrayMzfY4FWazbhb8A&usqp=CAU" group-title=" ⚽ Deporte VIP",  manchester united tv 
 http://rasaiptv.com:8080/pollitoconpapas24/srhVaNQCwZpK/134300
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="http://descargas.podzone.net/logos/-FUTV.png" group-title=" ⚽ Deporte VIP",FUTV 
