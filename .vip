@@ -114,7 +114,7 @@ http://tvbross.com:8090/comandoalmache/almache2022../429
 #EXTINF:-1 tvg-id="hboplus.mx" tvg-name="2MB | HBO + LQ" tvg-logo="http://descargas.podzone.net/logos/-HBO-plus.png" grupo -title="⭐️ Cine Premium",CINE| HBO +
 http://tvbross.com:8090/comandoalmache/almache2022../424
 #EXTINF:-1 tvg-id="HBOHDA" tvg-name="P | HBO Family" tvg-logo="http://descargas.podzone.net/logos/-HBO-family.png" group-title="⭐️ Cine Premium",CINE| HBO Family
-http://iptvtree.net:8080/F27279/bdad41ff/3057
+http://tvbross.com:8090/comandoalmache/almache2022../426
 #EXTINF:-1 tvg-id="HBOXLAM" tvg-name="P | HBO Xtreme" tvg-logo="http://descargas.podzone.net/logos/-HBO-xtream.png" group-title="⭐️ Cine Premium",CINE| HBO Xtreme
 http://tvbross.com:8090/comandoalmache/almache2022../419
 #EXTINF:-1 tvg-id="MUNLEH" tvg-name="P | HBO Mundi" tvg-logo="http://descargas.podzone.net/logos/-HBO-mundi.png" group-title="⭐️ Cine Premium",CINE| HBO Mundi
@@ -696,6 +696,10 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 https://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVC.png" group-title="⭐️ Tv españa",🇪🇦 | TV3 CAT
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQkGMNvCaGe_CWlbRFBFX58A-YiMOUkMm-5w&usqp=CAU " group-title="⭐️ Tv españa",🇪🇦 | somos
+http://32487280482321413.nicsd0227a.xyz:80/play/hu1113402/BqxredtrSapn/321413.ts
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Tf6F22pnuTp6WpT-8cCwAXFnKd8jKDp-g&usqp=CAU" group-title="⭐️ Tv españa",🇪🇦 | originales 
+http://32487280482321069.nicsd0227a.xyz:80/play/hu1113402/BqxredtrSapn/321069.ts
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ETB.png" group-title="⭐️ Tv españa",🇪🇦 | EITB BASQUE
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ARAGON.png" group-title="⭐️ Tv españa",🇪🇦 | ARAGON  TV INT
@@ -1199,7 +1203,7 @@ http://novared.pro:8080/motors/checkmotors131021/218668
 #EXTINF:-1 tvg-logo="  https://media.tenor.com/e9T27UAmWfAAAAAM/bolivia-mascota.gif" group-title="⭐️ Bolivia",🇧🇴 🇧🇴 🇧🇴
 https://dl.dropboxusercontent.com/scl/fi/d22zor5zus3q0hp9fzf7d/1_5098376675729605700.mp4?rlkey=yl6565jfzwi0lbn26hbhn8b6m&dl=0
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBDLePe31pqkHMXH6V4cU0UiOlBtEpZO1sbg&usqp=CAU " group-title="⭐️ Bolivia",🇧🇴 | ATB
-http://186.121.206.197/live/daniel/index.m3u8
+http://tvbross.com:8090/comandoalmache/almache2022../40063
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5RdY9CU1tHnY5athJBTrgwhjRv2EMFiIslg&usqp=CAU" group-title="⭐️ Bolivia",🇧🇴 | BOLIVIA TV
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs-amCIZae60B5gCtEE7nbRyJqwwXHJ5_C-g&usqp=CAU" group-title="⭐️ Bolivia",🇧🇴 | BOLIVISION
