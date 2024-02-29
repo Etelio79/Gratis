@@ -553,6 +553,8 @@ https://envivo.telerama.ec/stream.m3u8
 https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQV4AYl0NAr_ckpb0StwE8tgOu7v9ytQm6kQ&usqp=CAU" group-title="⭐️ Ecuador",🇪🇨 | Televicentro 
 https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT47sIaK6sDYcxIWbxJ8mq1ZZThrD-rCXogwQ&usqp=CAU  " group-title="⭐️ Ecuador",🇪🇨 | rtu noticias 
+https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5PDe3lDoxZucNre79hg2ndN2DYrWoVOMQQA&usqp=CAU " group-title="⚽ Deportes Ecuador", gol play
