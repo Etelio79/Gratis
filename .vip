@@ -760,6 +760,32 @@ https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/tracks-v1a1
 http://claymorej2.pinals.xyz:8080/x4aDSHaDEh/kXJRWQvdwc/12113
 
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/Nat_Geo_Kids_%282017%29.png" group-title="ESPAÑA | INFANTIL", NAT GEO KIDS
+http://haksba3.ovh:37500/malki1/malki/71534
+#EXTINF:-1 tvg-logo="https://www.mododiscoverykids.com/img/logo.png" group-title="ESPAÑA | INFANTIL", DISCOVERY KIDS 
+http://haksba3.ovh:37500/malki1/malki/74451
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPAÑA | INFANTIL", Clan TVE 
+http://haksba3.ovh:37500/malki1/malki/116189
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPAÑA | INFANTIL", Baby TV
+http://haksba3.ovh:37500/malki1/malki/116190
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPAÑA | INFANTIL", Disney Junior 
+http://haksba3.ovh:37500/malki1/malki/116193
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPAÑA | INFANTIL", En familia 
+http://haksba3.ovh:37500/malki1/malki/116196
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPAÑA | INFANTIL", NICK JR 
+http://haksba3.ovh:37500/malki1/malki/116199
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPAÑA | INFANTIL", Dreamworks 
+http://haksba3.ovh:37500/malki1/malki/116202
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPAÑA | INFANTIL", Nickelodeon 
+http://haksba3.ovh:37500/malki1/malki/116205
+#EXTINF:-1 tvg-logo="https://www.mododiscoverykids.com/img/logo.png" group-title="ESPAÑA | INFANTIL", DISCOVERY KIDS 
+http://haksba3.ovh:37500/malki1/malki/74451
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="ESPAÑA | INFANTIL", CARTOON NETWORK 
+http://haksba3.ovh:37500/malki1/malki/74452
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPAÑA | INFANTIL", Clan TVE HD
+http://haksba3.ovh:37500/malki1/malki/116188
+
+
 #EXTINF:-1 tvg-logo="  https://i.gifer.com/JWMd.gif" group-title="⭐️ Chile",🇨🇱 🇨🇱 🇨🇱
 https://dl.dropboxusercontent.com/scl/fi/d22zor5zus3q0hp9fzf7d/1_5098376675729605700.mp4?rlkey=yl6565jfzwi0lbn26hbhn8b6m&dl=0
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOTn5jykauW0smu6OgpHSvWCpFVT03S2wkbw&usqp=CAU"  group-title="⭐️ Chile",🇨🇱| chilevisión 
