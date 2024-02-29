@@ -543,6 +543,16 @@ http://185.233.16.171:8000/play/vi1114605/AxxKePBVqE8/791869.ts?token=H0EMV0RQRl
 http://185.233.16.171:8000/play/vi1114605/AxxKePBVqE8/786199.ts?token=H0EMV0RQRl8UBQtQVloDDQQAUwZQBlFcU1UCXVIPDANQWgECDlpQXAFDFRZAFkBdBw48WFASDVMNAVcBWhQXRhcGFmleXEZfFFAMDAJRAhpKQRdYWVUVXgQAVgFTDQAAUlJIFEdRAEcMQwoMClUCGkpBBklAVUUKVFs5XAZOXFABQV5YQlQISRQOV2tXB19ZCAdBCxYBFUgXXhVIQQJbRggPSBRVURAXVxVcFgkMR1QKT0FSW0VZEEdORAJBeWcRSEEBTkNdChZfDlcWCUBGS0RPQVhHb0UBRkMUXQJVUEFGWUYGFRRGCFcZZldcDFxdBRcKXlpDFV4XBEQUQVVaXQ0XC0RoSA0BFFsbBwtbAQpEHg==
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVlIsYTAmk4YDtHH4qbg3j0VaZXxj1Zv9Mbw&usqp=CAU" group-title="⭐️ Ecuador",🇪🇨 | wuan +
 http://156453130726793121.nicsd0227a.xyz:80/play/vi1114605/AxxKePBVqE8/793121.ts
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQJQqtSKeYZQu49wwHltOOspoOqgICTzmLDw&usqp=CAU " group-title="⭐️ Ecuador",🇪🇨 | Teleamazonas
+https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/0fc97608-6057-4db8-9af7-102c21ac18af.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKAJyspkyKn0JBlt578WdFIz8kYZHpTUCFQ&usqp=CAU" group-title="⭐️ Ecuador",🇪🇨 | oromar
+https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAMcOpxrquGfxo9IC_xhTiqkdK6f0nqU7LJw&usqp=CAU " group-title="⭐️ Ecuador",🇪🇨 | telerama
+https://envivo.telerama.ec/stream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD71IMluNszzFaPgLV7Mk8CsIt4eDky-cDOA&usqp=CAU  " group-title="⭐️ Ecuador",🇪🇨 | mana visión
+https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQV4AYl0NAr_ckpb0StwE8tgOu7v9ytQm6kQ&usqp=CAU" group-title="⭐️ Ecuador",🇪🇨 | Televicentro 
+https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5PDe3lDoxZucNre79hg2ndN2DYrWoVOMQQA&usqp=CAU " group-title="⚽ Deportes Ecuador", gol play
