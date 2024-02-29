@@ -946,6 +946,8 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 https://live.obslivestream.com/cdeportivo/index.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQc6KYOae8Xzv_kiZa_1WmfGqONQ7fqDxO_A&usqp=CAU " group-title="⚽ Deportes Perú", gol peru (peru)
 http://181.78.208.254:8010/play/a05g/index.m3u8
+ #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMebl_S3gveLZScHsRj-k1ga8vSztmXl4v8A&usqp=CAU " group-title="⚽ Deportes Perú", liga 1
+http://tvbross.com:8090/comandoalmache/almache2022../140577
  #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeJiK8PhVRpAUSenKIIf8LkmpXQvjQC9nneA&usqp=CAU " group-title="⚽ Deportes Perú", liga 1 max
 http://novared.pro:8080/motors/checkmotors131021/330756
  #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUXMUpgIHkV6xOPktSNpJyX1MVGderuHfXrA&usqp=CAU" group-title="⚽ Deportes Perú", universitario tv
