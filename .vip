@@ -483,6 +483,8 @@ http://tvbross.com:8090/comandoalmache/almache2022../17749
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/186831.ts
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUl5HsDRyMmq38G6So4j36aJY3fnRqsM3sJQ&usqp=CAU" group-title="✅ 24/7 INFANTILES",24/7 | los Simpsons
 http://tv.proyectox.vip:8080/live/ossi2022/RNe48QBDyX/37758.m3u8
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0jw9Em8tHt6ersCHSg93C0_5j74qH54yMog&usqp=CAU" group-title="✅ 24/7 INFANTILES",24/7 | batman
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/60048
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZ5UTCOeWgHCSzTtzIG74Qrl-0duXJhd0Rg&usqp=CAU" group-title="⚽ Dazn Eventos ⚽", DAZN MOVISTAR 1
@@ -1009,6 +1011,10 @@ http://iptvhogar.club:25461/Ruben_Antunez/1576161527/2530
 http://iptvhogar.club:25461/Ruben_Antunez/1576161527/2535
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWjbhna8o75Z-DJ2I5f3Ml5_AIeSQB0iO1uA&usqp=CAU " group-title="⭐️ Mexico",🇲🇽 | unimas 
 http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/1282
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcit-WChlD2959l4myQw9OTs5-NGPk2MC0oQ&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | imagen tv
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/58099
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2AfnAU7CglY8NKCBSi-Fmz-N9lxO-ZLkqYg&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | azteca deportes
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/180061
 
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOzUbC3TwMglW0YBja9vOPLa9HhrJo4pBTAw&usqp=CAU" group-title="⚽ Deportes Mexico",  FOX SPORTS  1 (México)
