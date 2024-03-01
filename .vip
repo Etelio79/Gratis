@@ -34,8 +34,6 @@ http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/1499
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh94jktIUunqTYghwi3dnZNfrb_cp--66-TQ&usqp=CAU " group-title="⭐️ Telenovelas",TlN | telemundo novelas clásicas 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqKlEo7N1Zb1T_o2wMGKMVDg1kKOfzexbMRQ&usqp=CAU " group-title="⭐️ Telenovelas",TlN | unicable novelas
-http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/1283
 
 
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwKhO6kqI7vJBtf9vl1wsCn9pNe-CQxqCoLA&usqp=CAU" group-title="⭐️ Musica",MUS| vallenatos internacional 
@@ -96,26 +94,6 @@ https://premiumultra.xyz:8443/03linconsilvaUP/54321/60498
 https://premiumultra.xyz:8443/03linconsilvaUP/54321/60481
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvbT_-ff66Dxg02ONo1ou8IkWHsisOeldrzQ&usqp=CAU " group-title="⭐️ Musica",MUS| spotify hip hop
 https://premiumultra.xyz:8443/03linconsilvaUP/54321/60483
-
-
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNyfXysbnQ3PpqRzGikmf8cPxlNTBXnYf9tQ&usqp=CAU" group-title="🎶 Music choice",mc | pop and hits
-https://fastream.xyz:8443/luisalbertocortinezvargas/se42587/13379
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNyfXysbnQ3PpqRzGikmf8cPxlNTBXnYf9tQ&usqp=CAU" group-title="🎶 Music choice",mc | mexicana
-https://fastream.xyz:8443/luisalbertocortinezvargas/se42587/13387
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNyfXysbnQ3PpqRzGikmf8cPxlNTBXnYf9tQ&usqp=CAU" group-title="🎶 Music choice",mc | pop and country
-https://fastream.xyz:8443/luisalbertocortinezvargas/se42587/13380
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNyfXysbnQ3PpqRzGikmf8cPxlNTBXnYf9tQ&usqp=CAU" group-title="🎶 Music choice",mc | dance
-https://fastream.xyz:8443/luisalbertocortinezvargas/se42587/13381
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNyfXysbnQ3PpqRzGikmf8cPxlNTBXnYf9tQ&usqp=CAU" group-title="🎶 Music choice",mc | tropicales
-https://fastream.xyz:8443/luisalbertocortinezvargas/se42587/13386
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNyfXysbnQ3PpqRzGikmf8cPxlNTBXnYf9tQ&usqp=CAU" group-title="🎶 Music choice",mc | rock
-https://fastream.xyz:8443/luisalbertocortinezvargas/se42587/13397
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNyfXysbnQ3PpqRzGikmf8cPxlNTBXnYf9tQ&usqp=CAU" group-title="🎶 Music choice",mc | 90's
-https://fastream.xyz:8443/luisalbertocortinezvargas/se42587/13394
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNyfXysbnQ3PpqRzGikmf8cPxlNTBXnYf9tQ&usqp=CAU" group-title="🎶 Music choice",mc | metal
-https://fastream.xyz:8443/luisalbertocortinezvargas/se42587/13399
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNyfXysbnQ3PpqRzGikmf8cPxlNTBXnYf9tQ&usqp=CAU" group-title="🎶 Music choice",mc | urbana
-https://fastream.xyz:8443/luisalbertocortinezvargas/se42587/13385
 
 
 #EXTINF:-1 tvg-id="hbo.mx" tvg-name="2MB | HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="⭐️ Cine Premium",CINE| HBO
@@ -509,7 +487,7 @@ https://xdigital.stream:8443/Alejandro1328/Valeria2911/94432
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ZbmP6IM57zdgM1ghV8YY6HucsH5HEqKd7w&usqp=CAU " group-title=" ⚽ tigo sports ⚽", tigo sports 2 solo eventos(Paraguay)
 https://xdigital.stream:8443/Alejandro1328/Valeria2911/94433
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ZbmP6IM57zdgM1ghV8YY6HucsH5HEqKd7w&usqp=CAU " group-title=" ⚽ tigo sports ⚽", tigo sports (bolibia)
-http://wtsplaylist.site:8080/live/bernardosalazar/jn8mFJjvsThQ/54114.ts
+http://tvlatino.club:2082/devil40/VkCBMYP78uZn/346909
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ZbmP6IM57zdgM1ghV8YY6HucsH5HEqKd7w&usqp=CAU " group-title=" ⚽ tigo sports ⚽", tigo sports 2 (bolivia)
 http://wtsplaylist.site:8080/live/bernardosalazar/jn8mFJjvsThQ/54117.ts
 
