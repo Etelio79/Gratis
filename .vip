@@ -1263,9 +1263,9 @@ http://galaxypro.online:8080/Jaime12P/JaimeU14/448007
 #EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmicNPv2oKTqz_SanYW6rhyFP-yNtbBMoJRw&usqp=CAU"  group-title="⭐️ Costa Rica",🇨🇷 |  nosara tv
 https://stmv.streamingvip.click:443/tvnosara2/tvnosara2/chunklist_w846594311.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9oy_aCq729tFEALyZ470gbFfwehpycd8Arw&usqp=CAU" group-title="⭐️ Costa Rica",🇨🇷 | canal 10
-https://acceso.radiosportstv.online:3138/live/canal10crlive.m3u8
+https://acceso.radiosportstv.online:3138/stream/play.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5V7S_vFccYinwwwwbRLZfhoFlkHGd4zlnzg&usqp=CAU " group-title="⭐️ Costa Rica",🇨🇷 | canal 10.1
-https://acceso.radiosportstv.online:3384/live/canal101crlive.m3u8
+https://acceso.radiosportstv.online:3384/stream/play.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlXy2Z4mwo414Xcp7kbXuc5jkrghGpe35tHA&usqp=CAU" group-title=" ⚽ Deportes costa rica",td + 
