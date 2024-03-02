@@ -368,10 +368,6 @@ https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDcCnTSTp9DJmnmFtAtYb_b9FGzRgn0vRNeg&usqp=CAU" group-title="⭐️ Infantiles",INF| fanpop
 https://wifiexpert-1.energeek.cl/energeek/canal-2/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCed2abD5S4dAtWyzUe-Inj6cFe5WJ6IHaYQ&usqp=CAU" group-title="⭐️ Infantiles",INF| etc tv
-http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/273684
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSel4znkPtmHoMCvrjQy6qlJVspdxSbtn-p1Q&usqp=CAU" group-title="⭐️ Infantiles",INF| paka paka
-http://22507171974776727.ofd0208.xyz:80/play/vi713179/nMFB8xYAHBhh/776727.ts
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ30Cvchag0hnJYuGklSMG1ZcRxPbn2OpM8jg&usqp=CAU" group-title="⭐️ Infantiles",INF| clan tv
 http://novared.pro:8080/motors/checkmotors131021/110290
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSolcPKKr2UaV7gWn2FcZnP3q7cssnGK119lw&usqp=CAU " group-title="⭐️ Infantiles",INF|  max anime
@@ -1111,7 +1107,7 @@ http://cncmedellin.ddns.net:1935/canalcnc/canalcnc_360p/playlist.m3u8
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYr0qrPTzF8a63ke9_yS-CyEjIka-vn6I4AQ&usqp=CAU  " group-title="⭐️ Colombia",🇨🇴 | eureka
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMRlCXgrYElZwPXEaGbPuwInlmaIF-KQzuYQ&usqp=CAU  " group-title="⭐️ Colombia",🇨🇴 | canal capita
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMRlCXgrYElZwPXEaGbPuwInlmaIF-KQzuYQ&usqp=CAU  " group-title="⭐️ Colombia",🇨🇴 | canal capital
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC502trIRFScCdyU3RyGvQa0JsvIo3K5P2zw&usqp=CAU" group-title="⭐️ Colombia",🇨🇴 | mi gente
 https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/index.m3u8
