@@ -1251,12 +1251,24 @@ https://acceso.radiosportstv.online:3138/stream/play.m3u8
 https://acceso.radiosportstv.online:3384/stream/play.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlXy2Z4mwo414Xcp7kbXuc5jkrghGpe35tHA&usqp=CAU" group-title=" ⚽ Deportes costa rica",td + 
-http://novared.pro:8080/motors/checkmotors131021/218708
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ5DCwqwumvaddhj_uHZb6WC07NYqPodspRQ&usqp=CAU" group-title=" ⚽ Deportes costa rica",td + 2 
-http://novared.pro:8080/motors/checkmotors131021/218729
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="http://descargas.podzone.net/logos/-FUTV.png" group-title=" ⚽ Deportes costa rica",FUTV 
-http://novared.pro:8080/motors/checkmotors131021/218668
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNb4pg3ucaHbFVWLPH3gNEWW9-3zuv-OEOcg&usqp=CAU " group-title=" ⚽ Deportes costa rica", td max +futbol
+https://m6gdar5eyn93-hls-live.5centscdn.com/TdmaxFutbol/229feeb109fa4f66876d49e563932c89.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAeBOTDiQH1c8Hgn-4FlsRP1zzbrel6AsbqQ&usqp=CAU" group-title=" ⚽ Deportes costa rica", td +
+https://cdn02.teletica.com/StreamTDMas1/Streamtdmas_1_04122023/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ5DCwqwumvaddhj_uHZb6WC07NYqPodspRQ&usqp=CAU" group-title=" ⚽ Deportes costa rica", td + 2
+https://cdn02.teletica.com/StreamTDMas2/Streamtdmas_2_04122023/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt1cdvzYdpfyzWy1wzYFOzS7HQlrk8XIkWrA&usqp=CAU " group-title=" ⚽ Deportes costa rica", futv
+https://cdn02.teletica.com/StreamFutv/Streamfutv04122023/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLYoRxEnTRqoPp9RcT1_l1HbiB5qBsFxxkvA&usqp=CAU" group-title=" ⚽ Deportes costa rica", goles futv
+https://ott3.streann.com/loadbalancer/services/public/channels-secure/633d9413e4b07fa1a2cd2621/playlist.m3u8?vodPlaylistBitrate=1&vodPlaylistTimestamp=1709645604537
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqRiU5rU8_TPXxRDAZcCgV4zVXRxGshHfEwA&usqp=CAU " group-title=" ⚽ Deportes costa rica", xper tv
+https://m6gdar5eyn93-hls-live.5centscdn.com/StreamXperTv/b7dccb67bc9db09ff24bb7bea126c692.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSALKMRFxca8hDaFMIxcTl4YUyEW2QGmyO_cQ&usqp=CAU  " group-title=" ⚽ Deportes costa rica", rwa
+https://ott3.streann.com/loadbalancer/services/public/channels-secure/63c8732be4b0184b6c9992f4/playlist.m3u8?vodPlaylistBitrate=1&vodPlaylistTimestamp=1709645840868
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5NEgmDFlGfLdeMPDQhTNSuLdF3sJToNktgw&usqp=CAU" group-title=" ⚽ Deportes costa rica", media docena
+https://ott3.streann.com/loadbalancer/services/public/channels-secure/635c2eefe4b0ff8ab3a4e5ae/playlist.m3u8?vodPlaylistBitrate=1&vodPlaylistTimestamp=1709645924872
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Z6OrGZIxrlJOodvYRxyO5huVrUioWhtoLA&usqp=CAU  " group-title=" ⚽ Deportes costa rica", los 11 titulares
+https://ott3.streann.com/loadbalancer/services/public/channels-secure/64cda35ce4b09e8288c65d62/playlist.m3u8?vodPlaylistBitrate=1&vodPlaylistTimestamp=1709646188186
 
 
 #EXTINF:-1 tvg-logo="  https://media.tenor.com/e9T27UAmWfAAAAAM/bolivia-mascota.gif" group-title="⭐️ Bolivia",🇧🇴 🇧🇴 🇧🇴
