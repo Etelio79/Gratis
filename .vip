@@ -1304,7 +1304,7 @@ http://sdmx.vip:8080/live/LEO2023/Leo2023/188431.ts
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGf3F5QKPeq9HtCV1QTCytM4kRD_p1Ez9TEw&usqp=CAU" group-title="⭐️ Bolivia",🇧🇴 | SEO TV 
 https://seo.tv.bo/tv/SEO1.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDH7_vYzXPXNYffSUK-2gtmU8fog-Wg-S6dw&usqp=CAU" group-title="⭐️ Bolivia",🇧🇴 | MEGAVISION
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzh4Nle6eKzi6NspBNCGAGSxOKjuECOSkYTg&usqp=CAU" group-title="⭐️ Bolivia",🇧🇴 | MEGA HD
 https://video.live.com.bo:3699/live/megavisionlive.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTESdCPxs2Gbie6M7SWVsfuIYDWjy0_pEOL_A&usqp=CAU" group-title="⭐️ Bolivia",🇧🇴 | ANT TV
 https://video.live.com.bo:3699/live/megavisionlive.m3u8
@@ -1342,6 +1342,32 @@ https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 https://vdo.grupolimalive.com:3089/live/tvelive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/177yQb3/logo-rtve-foo.png" group-title="⭐️ Bolivia",🇧🇴 | Canal 50 RTVE
 https://vdo.grupolimalive.com:3241/live/encuentrotvlive.m3u8
+#EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/canales/abya-yala.png" group-title="⭐️ Bolivia",🇧🇴 | Abya Yala TV
+https://master.tucableip.com/abyayalatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xDrc5MD/CORALTv.png" group-title="⭐️ Bolivia",🇧🇴 | Coral TV
+https://tv.mediacp.eu:8081/coraltv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/taGdzLe.png" group-title="⭐️ Bolivia",🇧🇴 | CVC
+https://5d00db0e0fcd5.streamlock.net/7034/7034/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FcciYMD.png" group-title="⭐️ Bolivia",🇧🇴 | Delta TV
+https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OEsT0KN.png" group-title="⭐️ Bolivia",🇧🇴 | F10 HD
+https://video.live.com.bo:3253/live/f10hdlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jZ7g58e.png" group-title="⭐️ Bolivia",🇧🇴 | FAP TV
+https://nd106.republicaservers.com/hls/c7284/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z4TfuxB.jpg" group-title="⭐️ Bolivia",🇧🇴 | Fortaleza TV Cueto
+https://rpn3.bozztv.com/ssh101/ssh101/fortalezacueto/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="⭐️ Bolivia",🇧🇴 | Gigavision
+https://master.tucableip.com/gigavision/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tUUuRZR.png" group-title="⭐️ Bolivia",🇧🇴 | GTV
+https://solo.disfrutaenlared.com:1936/guadalupetv/guadalupetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8XHSVWY/IMG-20210613-153444.png" group-title="⭐️ Bolivia",🇧🇴 | Imperial TV
+https://vdo.grupolimalive.com:3162/live/imperialtvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4eNH7JS.png" group-title="⭐️ Bolivia",🇧🇴 | IN TV
+https://solo.disfrutaenlared.com:1936/intv/intv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ce29Mbv.png" group-title="⭐️ Bolivia",🇧🇴 | Marvision TV
+https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IAQXCak.png" group-title="⭐️ Bolivia",🇧🇴 | Megavision
+https://video.live.com.bo:3699/live/megavisionlive.m3u8
 
 
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZmKQI8SlwO72K00HYjSM-PaCgSulJ-kZ4Zg&usqp=CAU" group-title="⚽ deportes Bolivia", faceta tv
