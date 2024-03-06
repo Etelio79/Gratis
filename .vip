@@ -1259,7 +1259,7 @@ https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
 https://live.obslivestream.com/crtvmux/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStnB_cbq2X1wNmTVecnawBLsDS77qXXCe5zA&usqp=CAU"  group-title="⭐️ Costa Rica",🇨🇷 |  nicoya tv
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/chunklist_w2029325583.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQng-FOAcEsdPYyV_6Q-rlB9w9SUeRXfLC8lg&usqp=CAU"  group-title="⭐️ Costa Rica",🇨🇷 |  santa cruz 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQng-FOAcEsdPYyV_6Q-rlB9w9SUeRXfLC8lg&usqp=CAU"  group-title="⭐️ Costa Rica",🇨🇷 |  santa cruz 
 https://rtmp.info/tvsantacruz/envivo/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qp48vAYubW5h4Tupl_Pzwfb7U-YQx0DOyA&usqp=CAU"  group-title="⭐️ Costa Rica",🇨🇷 |  zurqui tv
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
@@ -1275,16 +1275,19 @@ https://stmv.streamingvip.click:443/tvnosara2/tvnosara2/chunklist_w846594311.m3u
 https://acceso.radiosportstv.online:3138/stream/play.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5V7S_vFccYinwwwwbRLZfhoFlkHGd4zlnzg&usqp=CAU " group-title="⭐️ Costa Rica",🇨🇷 | canal 10.1
 https://acceso.radiosportstv.online:3384/stream/play.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqRiU5rU8_TPXxRDAZcCgV4zVXRxGshHfEwA&usqp=CAU " group-title="⭐️ Costa Rica",🇨🇷 | xper tv
+https://m6gdar5eyn93-hls-live.5centscdn.com/StreamXperTv/b7dccb67bc9db09ff24bb7bea126c692.sdp/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAeBOTDiQH1c8Hgn-4FlsRP1zzbrel6AsbqQ&usqp=CAU" group-title=" ⚽ Deportes costa rica", td +
+
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAeBOTDiQH1c8Hgn-4FlsRP1zzbrel6AsbqQ&usqp=CAU" group-title=" ⚽ Deportes costa rica", 91.5
 https://cdn02.teletica.com/StreamTDMas1/Streamtdmas_1_04122023/playlist.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ5DCwqwumvaddhj_uHZb6WC07NYqPodspRQ&usqp=CAU" group-title=" ⚽ Deportes costa rica", td + 2
 https://cdn02.teletica.com/StreamTDMas2/Streamtdmas_2_04122023/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt1cdvzYdpfyzWy1wzYFOzS7HQlrk8XIkWrA&usqp=CAU " group-title=" ⚽ Deportes costa rica", futv
 https://cdn02.teletica.com/StreamFutv/Streamfutv04122023/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqRiU5rU8_TPXxRDAZcCgV4zVXRxGshHfEwA&usqp=CAU " group-title=" ⚽ Deportes costa rica", xper tv
-https://m6gdar5eyn93-hls-live.5centscdn.com/StreamXperTv/b7dccb67bc9db09ff24bb7bea126c692.sdp/playlist.m3u8
+
 
 
 
