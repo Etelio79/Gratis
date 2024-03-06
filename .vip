@@ -1293,7 +1293,7 @@ https://cdn02.teletica.com/StreamFutv/Streamfutv04122023/playlist.m3u8
 #EXTINF:-1 tvg-logo="  https://media.tenor.com/e9T27UAmWfAAAAAM/bolivia-mascota.gif" group-title="⭐️ Bolivia",🇧🇴 🇧🇴 🇧🇴
 https://dl.dropboxusercontent.com/scl/fi/d22zor5zus3q0hp9fzf7d/1_5098376675729605700.mp4?rlkey=yl6565jfzwi0lbn26hbhn8b6m&dl=0
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBDLePe31pqkHMXH6V4cU0UiOlBtEpZO1sbg&usqp=CAU " group-title="⭐️ Bolivia",🇧🇴 | ATB
-http://tvbross.com:8090/comandoalmache/almache2022../40063
+http://186.121.206.197/live/daniel/index.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5RdY9CU1tHnY5athJBTrgwhjRv2EMFiIslg&usqp=CAU" group-title="⭐️ Bolivia",🇧🇴 | BOLIVIA TV
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs-amCIZae60B5gCtEE7nbRyJqwwXHJ5_C-g&usqp=CAU" group-title="⭐️ Bolivia",🇧🇴 | BOLIVISION
@@ -1344,8 +1344,8 @@ https://vdo.grupolimalive.com:3089/live/tvelive.m3u8
 https://vdo.grupolimalive.com:3241/live/encuentrotvlive.m3u8
 
 
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6kXgrl5FIk6FPGDltELbXLvOgyCu8-45CQw&usqp=CAU" group-title="⚽ deportes Bolivia", deportes total (bolivia)
-http://wtsplaylist.site:8080/live/bernardosalazar/jn8mFJjvsThQ/101669.ts
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZmKQI8SlwO72K00HYjSM-PaCgSulJ-kZ4Zg&usqp=CAU" group-title="⚽ deportes Bolivia", faceta tv
+https://master.tucableip.com/ftv/index.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL6E2sLUkKbGCEaQMq7nJ35LMlLFGh99-QXQ&usqp=CAU" group-title="⚽ deportes Bolivia", gx sports
 http://gxpro.tv:80/live/tvsolo1/tvsolo1/1013955.ts
 
