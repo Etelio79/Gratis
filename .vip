@@ -1685,11 +1685,39 @@ https://solo.disfrutaenlared.com:1936/intv/intv/playlist.m3u8
 https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZmKQI8SlwO72K00HYjSM-PaCgSulJ-kZ4Zg&usqp=CAU" group-title="⚽ deportes Bolivia", faceta tv
 https://master.tucableip.com/ftv/index.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL6E2sLUkKbGCEaQMq7nJ35LMlLFGh99-QXQ&usqp=CAU" group-title="⚽ deportes Bolivia", gx sports
 http://gxpro.tv:80/live/tvsolo1/tvsolo1/1013955.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ejRJqSI.png" group-title="⭐️ Panama",🇵🇦 | A&R Canal
+http://51.222.9.192:3589/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YFmzkOp.png" group-title="⭐️ Panama",🇵🇦 | Fabulosa Estereo 100.5 FM
+https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lpVZgA4.jpg" group-title="⭐️ Panama",🇵🇦 | Hispania TV
+https://vcp8.myplaytv.com:1936/hispaniatv/hispaniatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vpvvznz.png" group-title="⭐️ Panama",🇵🇦 | Hosanna Vision
+https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y0h8dlX.png" group-title="⭐️ Panama",🇵🇦 | Mas23 TV
+https://vcp4.myplaytv.com:1936/mas23/mas23/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vj5nNbF/FAV-TV-LOGO-BLANCO.png" group-title="⭐️ Panama",🇵🇦 | MINFAV TV
+https://video.misistemareseller.com/minfavtv/minfavtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQBd052.png" group-title="⭐️ Panama",🇵🇦 | Nex TV Canal 21
+https://vcp4.myplaytv.com:1936/nextv/nextv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ZIBs8l.png" group-title="⭐️ Panama",🇵🇦 | Planet 100.9 FM
+https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xum8PNe.jpg" group-title="⭐️ Panama",🇵🇦 | Radio Ancon
+https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XcrkfGh.png" group-title="⭐️ Panama",🇵🇦 | TVMax
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tGeHwxd.png" group-title="⭐️ Panama",🇵🇦 | TVN
+https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
+
+
+
+
 
 
 
