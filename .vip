@@ -222,8 +222,6 @@ https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvJqXtlfgMiMp-UgYniuKMopIbavCTEAK7Hg&usqp=CAU" group-title="⭐️ Extrema tv", EXT | cosmos
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNA_0DNowNdwibiFuRaQSXb3MmNl-htQQi-w&usqp=CAU" group-title="⭐️ Extrema tv", EXT | boreal
-https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgsy2NSLL57zATMKM6sOGDCOJmKQpsror-Ow&usqp=CAU" group-title="⭐️ Extrema tv", EXT | telemax
 https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/16f8ed90cfdce23eb93131280ab06426.webp" group-title="⭐️ Extrema tv", EXT |extrema tv acción 
@@ -1716,8 +1714,76 @@ https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/60580
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/twGGfJr.png" group-title="⭐️ Replica Dominicana",🇩🇴 | Su Mundo TV
+https://175036.global.ssl.fastly.net/6217e980d5bee0e090792fdf/live_75f5635097ba11ecb9f1255c8fe65a34/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJEqwZo.png" group-title="⭐️ Replica Dominicana",🇩🇴 | Super7FM
+https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-WO2ZKryfWoU/Wr1pO5clk_I/AAAAAAAAdJk/QYRg8_bp4OgmIWI55Y4m6i5o8RiWfCHWwCLcBGAs/s200/SuperTV55.jpg" group-title="⭐️ Replica Dominicana",🇩🇴 | Super TV 55
+https://ss2.domint.net:3236/stv_str/supertv55/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ql2eaP0.png" group-title="⭐️ Replica Dominicana",🇩🇴 | Telealtura
+https://5790d294af2dc.streamlock.net/telealtura/telealtura/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nh4sNVI.png" group-title="⭐️ Replica Dominicana",🇩🇴 | TeleBendicion
+https://ss5.domint.net:3180/tbt_str/telebendicion/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/90cTK8S.png" group-title="⭐️ Replica Dominicana",🇩🇴 | Telecanal 12
+https://rdn.essastream.com:3258/live/telecanal12live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QpnctoU.png" group-title="⭐️ Replica Dominicana",🇩🇴 | Telefuturo
+https://ss9.domint.net:3054/tf_str/telefuturo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dBEysOV.png" group-title="⭐️ Replica Dominicana",🇩🇴 | Teleimpacto
+https://vpss2003.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QvKmjvV.png" group-title="⭐️ Replica Dominicana",🇩🇴 | Telemax
+https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="⭐️ Replica Dominicana",🇩🇴 | Telemicro
+http://51.81.93.239:8084/hls/tmicro.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="⭐️ Replica Dominicana",🇩🇴 | Telenord 10
+http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o7EzEsV.png" group-title="⭐️ Replica Dominicana",🇩🇴 | Telenord 12
+http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0OCzj0S.png" group-title="⭐️ Replica Dominicana",🇩🇴 | Telenord 8
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WV6lmco.png" group-title="⭐️ Replica Dominicana",🇩🇴 | Tele Oriental
+https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s43eFy0.png" group-title="⭐️ Replica Dominicana",🇩🇴 | TeleRadioNorte
+https://angelistic.live:3785/live/tvoficiallive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rI8c5UM.png" group-title="⭐️ Replica Dominicana",🇩🇴 | Telesantodomingo
+https://cdn5.streamgato.us:3315/live/telesantodomingolive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qsxaOFq.png" group-title="⭐️ Replica Dominicana",🇩🇴 | Telesur Canal 10
+https://ss3.domint.net:3124/tls_str/telesur/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ig4gR93.png" group-title="⭐️ Replica Dominicana",🇩🇴 | Teletur
+https://cloudflare.streamgato.us:3227/live/teleturtvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vTfxkjW.png" group-title="⭐️ Replica Dominicana",🇩🇴 | Teleunion
+http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gQev8ST.png" group-title="⭐️ Replica Dominicana",🇩🇴 | Teleuniverso
+https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S8Zdn41.png" group-title="⭐️ Replica Dominicana",🇩🇴 | Televida
+https://ythls.armelin.one/channel/UCGwhsjKuqSNscX-XjtuF_yA.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jizId9Z.png" group-title="⭐️ Replica Dominicana",🇩🇴 | TNI Canal51
+https://ss5.domint.net:3188/tni_str/tni51/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dajatv.com/wp-content/uploads/2021/09/logo_daja_2.png" group-title="⭐️ Replica Dominicana",🇩🇴 | TV Daja
+https://rdn.essastream.com:3388/live/dajatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ahz7X7u.png" group-title="⭐️ Replica Dominicana",🇩🇴 | TV Exitos
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ptQyOMi.png" group-title="⭐️ Replica Dominicana",🇩🇴 | TV Higuey Digital
+https://vdo1.streamgato.us:3046/live/tvhigueycanal12live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZUQ2WP.png" group-title="⭐️ Replica Dominicana",🇩🇴 | TV Luz
+https://rdn.essastream.com:3307/live/tvluzlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G7zIVB7.png" group-title="⭐️ Replica Dominicana",🇩🇴 | Agenda 56 TV
+https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DBvm7YS.png" group-title="⭐️ Replica Dominicana",🇩🇴 | AION TV
+https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MUEbjeP.png" group-title="⭐️ Replica Dominicana",🇩🇴 | Ame 47
+https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fDlkOBx.png" group-title="⭐️ Replica Dominicana",🇩🇴 | Anime Zone TV
+http://animezonetv.net/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WkMfnGs/Channels4-profile-8.jpg" group-title="⭐️ Replica Dominicana",🇩🇴 | Area 809 El Original
+https://samson.streamerr.co:8081/rudydurisimotv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O6USO8r.png" group-title="⭐️ Replica Dominicana",🇩🇴 | Alegre TV RD
+https://vsrv2.az-streamingserver.com:3149/live/alegretvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XqQ3kCs.png" group-title="⭐️ Replica Dominicana",🇩🇴 | Bellavision
+https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kp8x0NS.png" group-title="Entertainment", Bonches Latinos TV
+https://ss5.domint.net:3172/btv_str/bonchestv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="⭐️ Replica Dominicana",🇩🇴 | Boreal
+https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 
 
 
