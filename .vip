@@ -813,6 +813,8 @@ http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2144850.ts
 http://tvbross.com:8090/comandoalmache/almache2022../100
  #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ZbmP6IM57zdgM1ghV8YY6HucsH5HEqKd7w&usqp=CAU " group-title=" ⚽ tigo sports ⚽", tigo sports (guatemala)
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ZbmP6IM57zdgM1ghV8YY6HucsH5HEqKd7w&usqp=CAU " group-title=" ⚽ tigo sports ⚽", tigo sports + (guatemala)
+http://xtream.lat:8880/Alex2023/Alex2023/145930
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ZbmP6IM57zdgM1ghV8YY6HucsH5HEqKd7w&usqp=CAU " group-title=" ⚽ tigo sports ⚽", tigo sports (paraguay)
 https://xdigital.stream:8443/Alejandro1328/Valeria2911/94432
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ZbmP6IM57zdgM1ghV8YY6HucsH5HEqKd7w&usqp=CAU " group-title=" ⚽ tigo sports ⚽", tigo sports 2 solo eventos(Paraguay)
@@ -820,7 +822,12 @@ https://xdigital.stream:8443/Alejandro1328/Valeria2911/94433
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ZbmP6IM57zdgM1ghV8YY6HucsH5HEqKd7w&usqp=CAU " group-title=" ⚽ tigo sports ⚽", tigo sports (bolibia)
 http://offshore.lat:8080/live/HSxRW5aQu7/LwK3M6QSLT/248534.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ZbmP6IM57zdgM1ghV8YY6HucsH5HEqKd7w&usqp=CAU " group-title=" ⚽ tigo sports ⚽", tigo sports 2 (bolivia)
-http://gotv.vip:8880/Alex2023/Alex2023/145931
+http://xtream.lat:8880/Alex2023/Alex2023/145931
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ZbmP6IM57zdgM1ghV8YY6HucsH5HEqKd7w&usqp=CAU " group-title=" ⚽ tigo sports ⚽", tigo sports (Salvador)
+http://xtream.lat:8880/Alex2023/Alex2023/11056
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ZbmP6IM57zdgM1ghV8YY6HucsH5HEqKd7w&usqp=CAU " group-title=" ⚽ tigo sports ⚽", tigo sports (honduras)
+http://xtream.lat:8880/Alex2023/Alex2023/66939
+
 
 
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpJHAO57nTafydZYiYRNlIwI4p25aoPLngvw&usqp=CAU " group-title=" ⚽ Deporte VIP", nba tv
