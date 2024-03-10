@@ -1454,7 +1454,7 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRla_xTmynjPtqy0q36a_GlzU6weJyirsI3xA&usqp=CAU" group-title="⚽ Deportes Perú", contacto deportivo (peru)
 https://live.obslivestream.com/cdeportivo/index.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQc6KYOae8Xzv_kiZa_1WmfGqONQ7fqDxO_A&usqp=CAU " group-title="⚽ Deportes Perú", gol peru (peru)
-http://181.78.208.254:8010/play/a05g/index.m3u8
+http://xtream.lat:8880/Alex2023/Alex2023/148164
  #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMebl_S3gveLZScHsRj-k1ga8vSztmXl4v8A&usqp=CAU " group-title="⚽ Deportes Perú", liga 1
 http://tvbross.com:8090/comandoalmache/almache2022../140577
  #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeJiK8PhVRpAUSenKIIf8LkmpXQvjQC9nneA&usqp=CAU " group-title="⚽ Deportes Perú", liga 1 max
@@ -1738,7 +1738,7 @@ http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs-amCIZae60B5gCtEE7nbRyJqwwXHJ5_C-g&usqp=CAU" group-title="⭐️ Bolivia",🇧🇴 | BOLIVISION
 https://d3mghbm9e5zfap.cloudfront.net/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxHhxxht5bTumnoSCJHAwIildlKVhiEZAcDQ&usqp=CAU " group-title="⭐️ Bolivia",🇧🇴 | PAT LA PAZ
-http://sdmx.vip:8080/live/LEO2023/Leo2023/188431.ts
+http://gxpro.tv:80/live/tvsolo1/tvsolo1/360003.ts
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGgsZh0OHHTqeOdwi_itHGWwPwiGVvy2oFw&usqp=CAU" group-title="⭐️ Bolivia",🇧🇴 | RTP
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGf3F5QKPeq9HtCV1QTCytM4kRD_p1Ez9TEw&usqp=CAU" group-title="⭐️ Bolivia",🇧🇴 | SEO TV 
