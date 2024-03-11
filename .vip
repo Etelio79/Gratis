@@ -1916,7 +1916,8 @@ https://ss5.domint.net:3172/btv_str/bonchestv/playlist.m3u8
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="  https://image.tmdb.org/t/p/w185/q4G7NXuQ0hDCdO6PUQswyU0VDiF.jpg" group-title="⭐⭐ ESTRENOS 2024 ⭐⭐",📽️ | el astronauta
+https://sp.rmbl.ws/s8/2/B/k/W/h/BkWhq.aaa.mp4
 #EXTINF:-1 tvg-logo=" https://image.tmdb.org/t/p/w185/neil20KXNhdctwdoyZdVFm7Fwq0.jpg " group-title="⭐⭐ ESTRENOS 2024 ⭐⭐",📽️ | damsel 
 https://o8n2t81gxftd.enaak-cdn.com:443/hls2/01/01346/bgks86stldz1_,l,n,.urlset/index-f2-v1-a1.m3u8?t=niEYUd5XCMefbkFakwmxcyrH5jnkhwZVujT3wSR9W8A&s=1710107236&e=129600&f=6730545&srv=ioroyuj5oreg&i=0.4&sp=1500&p1=ioroyuj5oreg&p2=ioroyuj5oreg&asn=52468
 #EXTINF:-1 tvg-logo="  https://image.tmdb.org/t/p/w185/1N7terrMeZPwK5qq31MUD0HQ3IG.jpg" group-title="⭐⭐ ESTRENOS 2024 ⭐⭐",📽️ | megamente contra el sindicato del mal
