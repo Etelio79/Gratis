@@ -1752,7 +1752,9 @@ http://gxpro.tv:80/live/tvsolo1/tvsolo1/360003.ts
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGgsZh0OHHTqeOdwi_itHGWwPwiGVvy2oFw&usqp=CAU" group-title="⭐️ Bolivia",🇧🇴 | RTP
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGf3F5QKPeq9HtCV1QTCytM4kRD_p1Ez9TEw&usqp=CAU" group-title="⭐️ Bolivia",🇧🇴 | SEO TV 
-https://seo.tv.bo/tv/SEO1HD.m3u8
+https://seo.tv.bo/tv/SEO1FHD.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd4gf3IdY1UJBrxgqpMzkkAlGo5GJVJoZiPA&usqp=CAU " group-title="⭐️ Bolivia",🇧🇴 | seo tv peliculas
+https://seo.tv.bo/tv/SEO4HD.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzh4Nle6eKzi6NspBNCGAGSxOKjuECOSkYTg&usqp=CAU" group-title="⭐️ Bolivia",🇧🇴 | MEGA HD
 https://video.live.com.bo:3699/live/megavisionlive.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTESdCPxs2Gbie6M7SWVsfuIYDWjy0_pEOL_A&usqp=CAU" group-title="⭐️ Bolivia",🇧🇴 | ANT TV
@@ -1827,6 +1829,8 @@ https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8
 https://master.tucableip.com/ftv/index.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL6E2sLUkKbGCEaQMq7nJ35LMlLFGh99-QXQ&usqp=CAU" group-title="⚽ deportes Bolivia", gx sports
 http://gxpro.tv:80/live/tvsolo1/tvsolo1/1013955.ts
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQefM5cDiAoXOn4EEHrjQqEM2KAP9xfjioPpQ&usqp=CAU " group-title="⚽ Deportes bolivia", seo deportes
+https://seo.tv.bo/tv/seo5.m3u8
 
 
 
