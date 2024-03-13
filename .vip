@@ -98,18 +98,6 @@ https://59ef525c24caa.streamlock.net/vmtv/soyplancha/chunklist_w939558316.m3u8
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoJAjqTdOWjFMG9CPs7w_HKkmhB2vx2_5rTg&usqp=CAU"  group-title="⭐️ Musica",MUS| tele musica
 https://canal.mediaserver.com.co/live/telemusica.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzzeykub03vq7XbvR20_ioUqh704m9WX--qw&usqp=CAU" group-title="⭐️ Musica",MUS| pop hits
-https://newultra.xyz:8443/998650697tv/7b896vg/13379
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSCEgN7l2GYYuNz4FKyAa5RqVPZBM7eAKbNg&usqp=CAU" group-title="⭐️ Musica",MUS| pop country
-https://newultra.xyz:8443/998650697tv/7b896vg/13380
- #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvbT_-ff66Dxg02ONo1ou8IkWHsisOeldrzQ&usqp=CAU" group-title="⭐️ Musica",MUS| Spotify verano
-https://premiumultra.xyz:8443/03linconsilvaUP/54321/60499
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvbT_-ff66Dxg02ONo1ou8IkWHsisOeldrzQ&usqp=CAU" group-title="⭐️ Musica",MUS| spotify tropicales
-https://premiumultra.xyz:8443/03linconsilvaUP/54321/60498
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvbT_-ff66Dxg02ONo1ou8IkWHsisOeldrzQ&usqp=CAU " group-title="⭐️ Musica",MUS| spotify fiesta
-https://premiumultra.xyz:8443/03linconsilvaUP/54321/60481
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvbT_-ff66Dxg02ONo1ou8IkWHsisOeldrzQ&usqp=CAU " group-title="⭐️ Musica",MUS| spotify hip hop
-https://premiumultra.xyz:8443/03linconsilvaUP/54321/60483
 
 
 #EXTINF:-1 tvg-id="hbo.mx" tvg-name="2MB | HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="⭐️ Cine HBO",   HBO
@@ -130,7 +118,7 @@ http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/139.m3u8
 http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/136.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJmarEfGLK_yKm0dKVXSTB9GPy5l71JJ0XxA&usqp=CAU " group-title="⭐️ Cine HBO",  HBO (opc2)
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2092584.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJmarEfGLK_yKm0dKVXSTB9GPy5l71JJ0XxA&usqp=CAU" group-title="⭐️ Cine HBO",  HBO HD  (opc3)
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?=tbn:ANd9GcSJmarEfGLK_yKm0dKVXSTB9GPy5l71JJ0XxA&usqp=CAU" group-title="⭐️ Cine HBO",  HBO HD  (opc3)
 http://tv.soccerplus.link:8000/hijos/1718155763/29068
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAtIapQyTDJduffE9gL9GRkgA52PGIhpXgMw&usqp=CAU" group-title="⭐️ Cine HBO",  HBO 2  (opc2)
 http://tv.soccerplus.link:8000/hijos/1718155763/22207
@@ -256,8 +244,6 @@ http://168.227.22.18:1935/live/mobile-028/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-047/playlist.m3u8
 #EXTINF:-1 tvg-id="MPREL" tvg-name="P | Multipremier" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/oqccogvw2k3tmpul6heb0/multipremier.png?rlkey=u954lcq1gn6d9zwwys5jhmlik&dl=0" group-title="⭐️ Cine Premium",CINE| Multipremier
 http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
-#EXTINF:-1 tvg-id="UNTVCHD" tvg-name="E | Universal TV" tvg-logo="http://descargas.podzone.net/logos/-universal-channel.png" group-title="⭐️ Cine Premium",CINE| universal channel
-http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
 
  
 
@@ -357,8 +343,6 @@ http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
 #EXTINF:-1 tvg-id="GOURMTA" tvg-name="C | El Gourmet" tvg-logo="http://descargas.podzone.net/logos/-el-gourmet.png" group-title="⭐️ Entretenimiento",ENT | El Gourmet
 http://168.227.22.18:1935/live/mobile-141/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE - MORBID TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTix81gxQ2PBOVRp2YRCMfcjGZM0UZdplf48A&usqp=CAU" group-title="⭐️ Entretenimiento",ENT |seo tv
-https://seo.tv.bo/tv/SEO1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | Cine Estelar
