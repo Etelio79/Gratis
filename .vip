@@ -697,36 +697,6 @@ https://r.mjh.nz/PlutoTV/5f85ca40eda1b10007b967cd-alt.m3u8
 https://r.mjh.nz/PlutoTV/5f85cf621d6d2200079f1de0-alt.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXhKpkzjLnWiX_IcVU9w8-569wzVWC7AxSCQ&usqp=CAU" group-title="⭐️ Rakuten tv",rtv | Bloomberg Quicktake 
-https://bloomberg-quicktake-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXhKpkzjLnWiX_IcVU9w8-569wzVWC7AxSCQ&usqp=CAU" group-title="⭐️ Rakuten tv",rtv | Brat TV 
-https://brat-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXhKpkzjLnWiX_IcVU9w8-569wzVWC7AxSCQ&usqp=CAU" group-title="⭐️ Rakuten tv",rtv | Clubbing TV 
-https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXhKpkzjLnWiX_IcVU9w8-569wzVWC7AxSCQ&usqp=CAU" group-title="⭐️ Rakuten tv",rtv | EDGEsport 
-https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXhKpkzjLnWiX_IcVU9w8-569wzVWC7AxSCQ&usqp=CAU" group-title="⭐️ Rakuten tv",rtv | Brat TV 
-https://brat-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXhKpkzjLnWiX_IcVU9w8-569wzVWC7AxSCQ&usqp=CAU" group-title="⭐️ Rakuten tv",rtv | Clubbing TV 
-https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXhKpkzjLnWiX_IcVU9w8-569wzVWC7AxSCQ&usqp=CAU" group-title="⭐️ Rakuten tv",rtv | EDGEsport 
-https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXhKpkzjLnWiX_IcVU9w8-569wzVWC7AxSCQ&usqp=CAU" group-title="⭐️ Rakuten tv",rtv | Rakuten Comedy Movies Spain 
-https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXhKpkzjLnWiX_IcVU9w8-569wzVWC7AxSCQ&usqp=CAU" group-title="⭐️ Rakuten tv",rtv | Rakuten Spotlight Spain 
-https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXhKpkzjLnWiX_IcVU9w8-569wzVWC7AxSCQ&usqp=CAU" group-title="⭐️ Rakuten tv",rtv | Rakuten Top Free Spain 
-https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXhKpkzjLnWiX_IcVU9w8-569wzVWC7AxSCQ&usqp=CAU" group-title="⭐️ Rakuten tv",rtv | Family Spain 
-https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXhKpkzjLnWiX_IcVU9w8-569wzVWC7AxSCQ&usqp=CAU" group-title="⭐️ Rakuten tv",rtv | Shows Spain
-https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXhKpkzjLnWiX_IcVU9w8-569wzVWC7AxSCQ&usqp=CAU" group-title="⭐️ Rakuten tv",rtv | Wonder 
-https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXhKpkzjLnWiX_IcVU9w8-569wzVWC7AxSCQ&usqp=CAU" group-title="⭐️ Rakuten tv",rtv | Young Hollywood 
-https://younghollywood-rakuten.amagi.tv/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0djIrHxzJQPYRHzandvR_VsfbaLk_F3zR6Q&usqp=CAU" group-title="⭐️ Canela tv",CAN | cinekids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0djIrHxzJQPYRHzandvR_VsfbaLk_F3zR6Q&usqp=CAU" group-title="⭐️ Canela tv",CAN | freetv accion
@@ -1347,7 +1317,7 @@ http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo=" https://www.gifservice.fr/img/gif-vignette-small/c43978e505e65909bdf421915183832e/204069-flags-america-argentina-smiley-ok.gif " group-title="⭐️ Argentina",🇦🇷 🇦🇷 🇦🇷
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/guh5r4vn1p7yagnbqflro/vid01.mp4?rlkey=qp0nipu8mkc1eq4adhtrlr977&dl=0 " group-title="⭐️ Argentina",🇦🇷 🇦🇷 🇦🇷
 https://dl.dropboxusercontent.com/scl/fi/d22zor5zus3q0hp9fzf7d/1_5098376675729605700.mp4?rlkey=yl6565jfzwi0lbn26hbhn8b6m&dl=0
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHELvpwU3M3IjESp_I1ZWC-XDeeSAZFqJt5g&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| a24
 http://daleplay.club:8080/live/2nf9u5881nk/jXPaVGrrX2BG/81289.ts
@@ -1406,7 +1376,7 @@ https://premierchile.shop:8443/23yaHFPEWwrq/UT9Bnd6aMF/513
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZAZTooZ7FxcyQr_DoYLsEDEsKSeYPwk00Q&usqp=CAU" group-title="⚽ Deportes argentina",  espn premium (argentina)
 http://pro.boxdigital.org:8080/889999555/kNXg2rubQceT/181854
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrmhJ54lwP3vGJZjhrpdsfHviOmknw1JMAkQ&usqp=CAU" group-title="⚽ Deportes argentina",  fox sport (argentina)
-http://iptvtree.net:8080/F27279/bdad41ff/280370
+http://gotv.vip:8880/bulltv25/bulltv25/65653
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiK6YFYatR_bqQWe0x62EewJ2SQsoDYWySbA&usqp=CAU" group-title="⚽ Deportes argentina",  fox sport 2 (argentina)
 https://nxt.plus:8443/Antony/1234/81341
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNYL0s4wVkOl0XOSkcS0UgEPguLc-_WxZMFg&usqp=CAU" group-title="⚽ Deportes argentina", fox 3 (argentina)
