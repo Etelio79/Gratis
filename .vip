@@ -60,6 +60,8 @@ https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w450170138.m3u8
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGAyOOlL4MYtoCk0QbHu3ykYuhK7S96BcCg&usqp=CAU " group-title="⭐️ Musica",MUS| urbano dj
 https://vdochile.com:3119/stream/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCVFZYSGWvjbAZMhAfmhYAlIVh7Nz6ud0-rg&usqp=CAU" group-title="⭐️ Musica",MUS| maleta mix music
+https://panel.tvstream.cl:1936/8040/8040/chunklist_w1655577242.m3u8?PlaylistM3ULC
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3IR6ubaLnCGvkjEpsYJ1WZUh__kIomU_TdA&usqp=CAU" group-title="⭐️ Musica",MUS| MTV
 http://168.227.22.18:1935/live/mobile-063/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3wISSH5rlsKYEkVWUP2-whlzds-JVQyEy5w&usqp=CAU" group-title="⭐️ Musica",MUS| NickMusic
